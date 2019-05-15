@@ -1,0 +1,2956 @@
+Archive member included because of file (symbol)
+
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+                              build/clouds/clouds.o (__aeabi_atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o) (__cxa_atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (exit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (__libc_init_array)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+                              build/clouds/granular_processor.o (memcpy)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+                              build/clouds/granular_processor.o (memmove)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o (memset)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o) (__register_exitproc)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+                              /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+ .text          0x00000000       0x54 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .data          0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .bss           0x00000000       0x1c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .init_array    0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .fini_array    0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .eh_frame      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .jcr           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+ .text          0x00000000       0x74 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.exidx     0x00000000        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .ARM.attributes
+                0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+ .group         0x00000000        0x8 build/clouds/clouds.o
+ .group         0x00000000        0x8 build/clouds/clouds.o
+ .group         0x00000000        0x8 build/clouds/clouds.o
+ .group         0x00000000        0x8 build/clouds/clouds.o
+ .group         0x00000000        0x8 build/clouds/clouds.o
+ .group         0x00000000        0x8 build/clouds/clouds.o
+ .group         0x00000000        0x8 build/clouds/clouds.o
+ .text          0x00000000        0x0 build/clouds/clouds.o
+ .data          0x00000000        0x0 build/clouds/clouds.o
+ .bss           0x00000000        0x0 build/clouds/clouds.o
+ .text._ZN6clouds8SettingsD2Ev
+                0x00000000        0x4 build/clouds/clouds.o
+ .text._ZN6clouds8CvScalerD2Ev
+                0x00000000        0x4 build/clouds/clouds.o
+ .text._ZN6clouds5CodecD2Ev
+                0x00000000        0x4 build/clouds/clouds.o
+ .text._ZN6clouds9DebugPortD2Ev
+                0x00000000        0x4 build/clouds/clouds.o
+ .text._ZN6clouds17GranularProcessorD2Ev
+                0x00000000        0x4 build/clouds/clouds.o
+ .text._ZN6clouds5MeterD2Ev
+                0x00000000        0x4 build/clouds/clouds.o
+ .text._ZN6clouds2UiD2Ev
+                0x00000000        0x4 build/clouds/clouds.o
+ .text.startup._GLOBAL__sub_I_processor
+                0x00000000       0x8c build/clouds/clouds.o
+ .init_array    0x00000000        0x4 build/clouds/clouds.o
+ .bss.__errno   0x00000000        0x4 build/clouds/clouds.o
+ .text          0x00000000        0x0 build/clouds/cv_scaler.o
+ .data          0x00000000        0x0 build/clouds/cv_scaler.o
+ .bss           0x00000000        0x0 build/clouds/cv_scaler.o
+ .text          0x00000000        0x0 build/clouds/resources.o
+ .data          0x00000000        0x0 build/clouds/resources.o
+ .bss           0x00000000        0x0 build/clouds/resources.o
+ .data._ZN6clouds16src_filter_tableE
+                0x00000000       0x10 build/clouds/resources.o
+ .data._ZN6clouds24lookup_table_int16_tableE
+                0x00000000        0x4 build/clouds/resources.o
+ .rodata._ZN6clouds18src_filter_1x_2_63E
+                0x00000000       0xfc build/clouds/resources.o
+ .rodata._ZN6clouds18src_filter_1x_2_91E
+                0x00000000      0x16c build/clouds/resources.o
+ .rodata._ZN6clouds18src_filter_1x_2_31E
+                0x00000000       0x7c build/clouds/resources.o
+ .rodata._ZN6clouds10lut_cutoffE
+                0x00000000      0x404 build/clouds/resources.o
+ .data._ZN6clouds18lookup_table_tableE
+                0x00000000       0x18 build/clouds/resources.o
+ .text          0x00000000        0x0 build/clouds/settings.o
+ .data          0x00000000        0x0 build/clouds/settings.o
+ .bss           0x00000000        0x0 build/clouds/settings.o
+ .bss._ZN6clouds7storageE
+                0x00000000        0x4 build/clouds/settings.o
+ .text          0x00000000        0x0 build/clouds/ui.o
+ .data          0x00000000        0x0 build/clouds/ui.o
+ .bss           0x00000000        0x0 build/clouds/ui.o
+ .text._ZN6clouds2Ui11FlushEventsEv
+                0x00000000        0xc build/clouds/ui.o
+ .text._ZN6clouds2Ui15OnSwitchPressedERKN6stmlib5EventE
+                0x00000000       0x18 build/clouds/ui.o
+ .text._ZN6clouds2Ui17OnSecretHandshakeEv
+                0x00000000        0x8 build/clouds/ui.o
+ .text          0x00000000        0x0 build/clouds/adc.o
+ .data          0x00000000        0x0 build/clouds/adc.o
+ .bss           0x00000000        0x0 build/clouds/adc.o
+ .text._ZN6clouds3Adc6DeInitEv
+                0x00000000        0x4 build/clouds/adc.o
+ .text          0x00000000        0x0 build/clouds/codec.o
+ .data          0x00000000        0x0 build/clouds/codec.o
+ .bss           0x00000000        0x0 build/clouds/codec.o
+ .text._ZN6clouds5Codec4StopEv
+                0x00000000       0x20 build/clouds/codec.o
+ .text          0x00000000        0x0 build/clouds/debug_port.o
+ .data          0x00000000        0x0 build/clouds/debug_port.o
+ .bss           0x00000000        0x0 build/clouds/debug_port.o
+ .text          0x00000000        0x0 build/clouds/gate_input.o
+ .data          0x00000000        0x0 build/clouds/gate_input.o
+ .bss           0x00000000        0x0 build/clouds/gate_input.o
+ .text          0x00000000        0x0 build/clouds/leds.o
+ .data          0x00000000        0x0 build/clouds/leds.o
+ .bss           0x00000000        0x0 build/clouds/leds.o
+ .text          0x00000000        0x0 build/clouds/switches.o
+ .data          0x00000000        0x0 build/clouds/switches.o
+ .bss           0x00000000        0x0 build/clouds/switches.o
+ .text          0x00000000        0x0 build/clouds/system.o
+ .data          0x00000000        0x0 build/clouds/system.o
+ .bss           0x00000000        0x0 build/clouds/system.o
+ .text          0x00000000        0x0 build/clouds/correlator.o
+ .data          0x00000000        0x0 build/clouds/correlator.o
+ .bss           0x00000000        0x0 build/clouds/correlator.o
+ .group         0x00000000        0x8 build/clouds/granular_processor.o
+ .group         0x00000000        0x8 build/clouds/granular_processor.o
+ .text          0x00000000        0x0 build/clouds/granular_processor.o
+ .data          0x00000000        0x0 build/clouds/granular_processor.o
+ .bss           0x00000000        0x0 build/clouds/granular_processor.o
+ .text          0x00000000        0x0 build/clouds/mu_law.o
+ .data          0x00000000        0x0 build/clouds/mu_law.o
+ .bss           0x00000000        0x0 build/clouds/mu_law.o
+ .text          0x00000000        0x0 build/clouds/frame_transformation.o
+ .data          0x00000000        0x0 build/clouds/frame_transformation.o
+ .bss           0x00000000        0x0 build/clouds/frame_transformation.o
+ .text._ZN6clouds19FrameTransformation5ResetEv
+                0x00000000       0xac build/clouds/frame_transformation.o
+ .text          0x00000000        0x0 build/clouds/phase_vocoder.o
+ .data          0x00000000        0x0 build/clouds/phase_vocoder.o
+ .bss           0x00000000        0x0 build/clouds/phase_vocoder.o
+ .group         0x00000000        0x8 build/clouds/stft.o
+ .text          0x00000000        0x0 build/clouds/stft.o
+ .data          0x00000000        0x0 build/clouds/stft.o
+ .bss           0x00000000        0x0 build/clouds/stft.o
+ .text          0x00000000        0x0 build/clouds/atan.o
+ .data          0x00000000        0x0 build/clouds/atan.o
+ .bss           0x00000000        0x0 build/clouds/atan.o
+ .text          0x00000000        0x0 build/clouds/units.o
+ .data          0x00000000        0x0 build/clouds/units.o
+ .bss           0x00000000        0x0 build/clouds/units.o
+ .text          0x00000000        0x0 build/clouds/random.o
+ .data          0x00000000        0x0 build/clouds/random.o
+ .bss           0x00000000        0x0 build/clouds/random.o
+ .text          0x00000000        0x0 build/clouds/bootloader_utils.o
+ .data          0x00000000        0x0 build/clouds/bootloader_utils.o
+ .bss           0x00000000        0x0 build/clouds/bootloader_utils.o
+ .text._ZN6stmlib12UninitializeEv
+                0x00000000       0x70 build/clouds/bootloader_utils.o
+ .text._ZN6stmlib6JumpToEm
+                0x00000000       0x10 build/clouds/bootloader_utils.o
+ .debug_info    0x00000000      0x437 build/clouds/bootloader_utils.o
+ .debug_abbrev  0x00000000      0x1b6 build/clouds/bootloader_utils.o
+ .debug_loc     0x00000000       0x47 build/clouds/bootloader_utils.o
+ .debug_aranges
+                0x00000000       0x28 build/clouds/bootloader_utils.o
+ .debug_ranges  0x00000000       0x18 build/clouds/bootloader_utils.o
+ .debug_line    0x00000000      0x143 build/clouds/bootloader_utils.o
+ .debug_str     0x00000000      0x419 build/clouds/bootloader_utils.o
+ .comment       0x00000000       0x71 build/clouds/bootloader_utils.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/bootloader_utils.o
+ .debug_frame   0x00000000       0x44 build/clouds/bootloader_utils.o
+ .group         0x00000000        0x8 build/clouds/system_clock.o
+ .text          0x00000000        0x0 build/clouds/system_clock.o
+ .data          0x00000000        0x0 build/clouds/system_clock.o
+ .bss           0x00000000        0x0 build/clouds/system_clock.o
+ .text._ZN6stmlib11SystemClockD2Ev
+                0x00000000        0x4 build/clouds/system_clock.o
+ .text.startup._GLOBAL__sub_I__ZN6stmlib12system_clockE
+                0x00000000       0x18 build/clouds/system_clock.o
+ .init_array    0x00000000        0x4 build/clouds/system_clock.o
+ .text          0x00000000        0x0 build/clouds/core_cm3.o
+ .data          0x00000000        0x0 build/clouds/core_cm3.o
+ .bss           0x00000000        0x0 build/clouds/core_cm3.o
+ .text.__get_PSP
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__set_PSP
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__get_MSP
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__set_MSP
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__get_BASEPRI
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__set_BASEPRI
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__get_PRIMASK
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__set_PRIMASK
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__get_FAULTMASK
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__set_FAULTMASK
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__REV    0x00000000        0x4 build/clouds/core_cm3.o
+ .text.__REV16  0x00000000        0x4 build/clouds/core_cm3.o
+ .text.__REVSH  0x00000000        0x4 build/clouds/core_cm3.o
+ .text.__RBIT   0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__LDREXB
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__LDREXH
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__LDREXW
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__STREXB
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__STREXH
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__STREXW
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__get_CONTROL
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .text.__set_CONTROL
+                0x00000000        0x8 build/clouds/core_cm3.o
+ .debug_info    0x00000000      0x509 build/clouds/core_cm3.o
+ .debug_abbrev  0x00000000       0xbb build/clouds/core_cm3.o
+ .debug_loc     0x00000000      0x33a build/clouds/core_cm3.o
+ .debug_aranges
+                0x00000000       0xc8 build/clouds/core_cm3.o
+ .debug_ranges  0x00000000       0xb8 build/clouds/core_cm3.o
+ .debug_line    0x00000000      0x234 build/clouds/core_cm3.o
+ .debug_str     0x00000000      0x35f build/clouds/core_cm3.o
+ .comment       0x00000000       0x71 build/clouds/core_cm3.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/core_cm3.o
+ .debug_frame   0x00000000      0x170 build/clouds/core_cm3.o
+ .text          0x00000000        0x0 build/clouds/system_stm32f4xx.o
+ .data          0x00000000        0x0 build/clouds/system_stm32f4xx.o
+ .bss           0x00000000        0x0 build/clouds/system_stm32f4xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x70 build/clouds/system_stm32f4xx.o
+ .data.AHBPrescTable
+                0x00000000       0x10 build/clouds/system_stm32f4xx.o
+ .data.SystemCoreClock
+                0x00000000        0x4 build/clouds/system_stm32f4xx.o
+ .text          0x00000000        0x0 build/clouds/misc.o
+ .data          0x00000000        0x0 build/clouds/misc.o
+ .bss           0x00000000        0x0 build/clouds/misc.o
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x14 build/clouds/misc.o
+ .text.NVIC_Init
+                0x00000000       0x80 build/clouds/misc.o
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x1c build/clouds/misc.o
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x18 build/clouds/misc.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_adc.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_adc.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_adc.o
+ .text.ADC_DeInit
+                0x00000000       0x1c build/clouds/stm32f4xx_adc.o
+ .text.ADC_StructInit
+                0x00000000       0x14 build/clouds/stm32f4xx_adc.o
+ .text.ADC_CommonStructInit
+                0x00000000        0xc build/clouds/stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogCmd
+                0x00000000       0x14 build/clouds/stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogThresholdsConfig
+                0x00000000        0x8 build/clouds/stm32f4xx_adc.o
+ .text.ADC_AnalogWatchdogSingleChannelConfig
+                0x00000000        0xc build/clouds/stm32f4xx_adc.o
+ .text.ADC_TempSensorVrefintCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_adc.o
+ .text.ADC_VBATCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_adc.o
+ .text.ADC_GetSoftwareStartConvStatus
+                0x00000000        0x8 build/clouds/stm32f4xx_adc.o
+ .text.ADC_EOCOnEachRegularChannelCmd
+                0x00000000       0x14 build/clouds/stm32f4xx_adc.o
+ .text.ADC_ContinuousModeCmd
+                0x00000000       0x14 build/clouds/stm32f4xx_adc.o
+ .text.ADC_DiscModeChannelCountConfig
+                0x00000000       0x10 build/clouds/stm32f4xx_adc.o
+ .text.ADC_DiscModeCmd
+                0x00000000       0x14 build/clouds/stm32f4xx_adc.o
+ .text.ADC_GetConversionValue
+                0x00000000        0x8 build/clouds/stm32f4xx_adc.o
+ .text.ADC_GetMultiModeConversionValue
+                0x00000000        0xc build/clouds/stm32f4xx_adc.o
+ .text.ADC_MultiModeDMARequestAfterLastTransferCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_adc.o
+ .text.ADC_InjectedChannelConfig
+                0x00000000       0x68 build/clouds/stm32f4xx_adc.o
+ .text.ADC_InjectedSequencerLengthConfig
+                0x00000000       0x10 build/clouds/stm32f4xx_adc.o
+ .text.ADC_SetInjectedOffset
+                0x00000000       0x18 build/clouds/stm32f4xx_adc.o
+ .text.ADC_ExternalTrigInjectedConvConfig
+                0x00000000        0xc build/clouds/stm32f4xx_adc.o
+ .text.ADC_ExternalTrigInjectedConvEdgeConfig
+                0x00000000        0xc build/clouds/stm32f4xx_adc.o
+ .text.ADC_SoftwareStartInjectedConv
+                0x00000000        0xc build/clouds/stm32f4xx_adc.o
+ .text.ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x00000000        0x8 build/clouds/stm32f4xx_adc.o
+ .text.ADC_AutoInjectedConvCmd
+                0x00000000       0x14 build/clouds/stm32f4xx_adc.o
+ .text.ADC_InjectedDiscModeCmd
+                0x00000000       0x14 build/clouds/stm32f4xx_adc.o
+ .text.ADC_GetInjectedConversionValue
+                0x00000000       0x1c build/clouds/stm32f4xx_adc.o
+ .text.ADC_ITConfig
+                0x00000000       0x1c build/clouds/stm32f4xx_adc.o
+ .text.ADC_GetFlagStatus
+                0x00000000        0xc build/clouds/stm32f4xx_adc.o
+ .text.ADC_ClearFlag
+                0x00000000        0x8 build/clouds/stm32f4xx_adc.o
+ .text.ADC_GetITStatus
+                0x00000000       0x1c build/clouds/stm32f4xx_adc.o
+ .text.ADC_ClearITPendingBit
+                0x00000000        0x8 build/clouds/stm32f4xx_adc.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_can.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_can.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_can.o
+ .text.CAN_DeInit
+                0x00000000       0x3c build/clouds/stm32f4xx_can.o
+ .text.CAN_Init
+                0x00000000      0x1a0 build/clouds/stm32f4xx_can.o
+ .text.CAN_FilterInit
+                0x00000000      0x110 build/clouds/stm32f4xx_can.o
+ .text.CAN_StructInit
+                0x00000000       0x28 build/clouds/stm32f4xx_can.o
+ .text.CAN_SlaveStartBank
+                0x00000000       0x3c build/clouds/stm32f4xx_can.o
+ .text.CAN_DBGFreeze
+                0x00000000       0x14 build/clouds/stm32f4xx_can.o
+ .text.CAN_TTComModeCmd
+                0x00000000       0x5c build/clouds/stm32f4xx_can.o
+ .text.CAN_Transmit
+                0x00000000       0xe0 build/clouds/stm32f4xx_can.o
+ .text.CAN_TransmitStatus
+                0x00000000       0x54 build/clouds/stm32f4xx_can.o
+ .text.CAN_CancelTransmit
+                0x00000000       0x2c build/clouds/stm32f4xx_can.o
+ .text.CAN_Receive
+                0x00000000       0xa8 build/clouds/stm32f4xx_can.o
+ .text.CAN_FIFORelease
+                0x00000000       0x18 build/clouds/stm32f4xx_can.o
+ .text.CAN_MessagePending
+                0x00000000       0x1c build/clouds/stm32f4xx_can.o
+ .text.CAN_OperatingModeRequest
+                0x00000000      0x228 build/clouds/stm32f4xx_can.o
+ .text.CAN_Sleep
+                0x00000000       0x1c build/clouds/stm32f4xx_can.o
+ .text.CAN_WakeUp
+                0x00000000       0x80 build/clouds/stm32f4xx_can.o
+ .text.CAN_GetLastErrorCode
+                0x00000000        0x8 build/clouds/stm32f4xx_can.o
+ .text.CAN_GetReceiveErrorCounter
+                0x00000000        0x8 build/clouds/stm32f4xx_can.o
+ .text.CAN_GetLSBTransmitErrorCounter
+                0x00000000        0x8 build/clouds/stm32f4xx_can.o
+ .text.CAN_ITConfig
+                0x00000000       0x14 build/clouds/stm32f4xx_can.o
+ .text.CAN_GetFlagStatus
+                0x00000000       0x58 build/clouds/stm32f4xx_can.o
+ .text.CAN_ClearFlag
+                0x00000000       0x30 build/clouds/stm32f4xx_can.o
+ .text.CAN_GetITStatus
+                0x00000000       0xe4 build/clouds/stm32f4xx_can.o
+ .text.CAN_ClearITPendingBit
+                0x00000000       0x8c build/clouds/stm32f4xx_can.o
+ .debug_info    0x00000000      0xca1 build/clouds/stm32f4xx_can.o
+ .debug_abbrev  0x00000000      0x29d build/clouds/stm32f4xx_can.o
+ .debug_loc     0x00000000      0xc7d build/clouds/stm32f4xx_can.o
+ .debug_aranges
+                0x00000000       0xd8 build/clouds/stm32f4xx_can.o
+ .debug_ranges  0x00000000      0x150 build/clouds/stm32f4xx_can.o
+ .debug_line    0x00000000      0x58b build/clouds/stm32f4xx_can.o
+ .debug_str     0x00000000      0x7f3 build/clouds/stm32f4xx_can.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_can.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_can.o
+ .debug_frame   0x00000000      0x1d0 build/clouds/stm32f4xx_can.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_crc.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_crc.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_crc.o
+ .text.CRC_ResetDR
+                0x00000000        0xc build/clouds/stm32f4xx_crc.o
+ .text.CRC_CalcCRC
+                0x00000000        0xc build/clouds/stm32f4xx_crc.o
+ .text.CRC_CalcBlockCRC
+                0x00000000       0xb0 build/clouds/stm32f4xx_crc.o
+ .text.CRC_GetCRC
+                0x00000000        0xc build/clouds/stm32f4xx_crc.o
+ .text.CRC_SetIDRegister
+                0x00000000        0xc build/clouds/stm32f4xx_crc.o
+ .text.CRC_GetIDRegister
+                0x00000000        0xc build/clouds/stm32f4xx_crc.o
+ .debug_info    0x00000000      0x1e3 build/clouds/stm32f4xx_crc.o
+ .debug_abbrev  0x00000000      0x125 build/clouds/stm32f4xx_crc.o
+ .debug_loc     0x00000000       0x82 build/clouds/stm32f4xx_crc.o
+ .debug_aranges
+                0x00000000       0x48 build/clouds/stm32f4xx_crc.o
+ .debug_ranges  0x00000000       0x38 build/clouds/stm32f4xx_crc.o
+ .debug_line    0x00000000      0x17d build/clouds/stm32f4xx_crc.o
+ .debug_str     0x00000000      0x2e9 build/clouds/stm32f4xx_crc.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_crc.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_crc.o
+ .debug_frame   0x00000000       0x78 build/clouds/stm32f4xx_crc.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_cryp_aes.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_cryp_aes.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_cryp_aes.o
+ .text.CRYP_AES_ECB
+                0x00000000      0x1fc build/clouds/stm32f4xx_cryp_aes.o
+ .text.CRYP_AES_CBC
+                0x00000000      0x224 build/clouds/stm32f4xx_cryp_aes.o
+ .text.CRYP_AES_CTR
+                0x00000000      0x1ac build/clouds/stm32f4xx_cryp_aes.o
+ .debug_info    0x00000000     0x15ba build/clouds/stm32f4xx_cryp_aes.o
+ .debug_abbrev  0x00000000      0x267 build/clouds/stm32f4xx_cryp_aes.o
+ .debug_loc     0x00000000     0x1cde build/clouds/stm32f4xx_cryp_aes.o
+ .debug_aranges
+                0x00000000       0x30 build/clouds/stm32f4xx_cryp_aes.o
+ .debug_ranges  0x00000000       0x20 build/clouds/stm32f4xx_cryp_aes.o
+ .debug_line    0x00000000      0x5bf build/clouds/stm32f4xx_cryp_aes.o
+ .debug_str     0x00000000      0x51a build/clouds/stm32f4xx_cryp_aes.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_cryp_aes.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_cryp_aes.o
+ .debug_frame   0x00000000       0x7c build/clouds/stm32f4xx_cryp_aes.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_cryp.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_cryp.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_DeInit
+                0x00000000       0x18 build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_Init
+                0x00000000       0x60 build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_StructInit
+                0x00000000        0xc build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_KeyInit
+                0x00000000       0x28 build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_KeyStructInit
+                0x00000000       0x14 build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_IVInit
+                0x00000000       0x18 build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_IVStructInit
+                0x00000000        0xc build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_FIFOFlush
+                0x00000000       0x10 build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_Cmd
+                0x00000000       0x1c build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_DataIn
+                0x00000000        0xc build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_DataOut
+                0x00000000        0xc build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_SaveContext
+                0x00000000       0xbc build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_RestoreContext
+                0x00000000       0x44 build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_DMACmd
+                0x00000000       0x1c build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_ITConfig
+                0x00000000       0x1c build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_GetITStatus
+                0x00000000       0x14 build/clouds/stm32f4xx_cryp.o
+ .text.CRYP_GetFlagStatus
+                0x00000000       0x18 build/clouds/stm32f4xx_cryp.o
+ .debug_info    0x00000000      0x742 build/clouds/stm32f4xx_cryp.o
+ .debug_abbrev  0x00000000      0x1d7 build/clouds/stm32f4xx_cryp.o
+ .debug_loc     0x00000000      0x2e6 build/clouds/stm32f4xx_cryp.o
+ .debug_aranges
+                0x00000000       0xa0 build/clouds/stm32f4xx_cryp.o
+ .debug_ranges  0x00000000       0x90 build/clouds/stm32f4xx_cryp.o
+ .debug_line    0x00000000      0x323 build/clouds/stm32f4xx_cryp.o
+ .debug_str     0x00000000      0x672 build/clouds/stm32f4xx_cryp.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_cryp.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_cryp.o
+ .debug_frame   0x00000000      0x148 build/clouds/stm32f4xx_cryp.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_cryp_des.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_cryp_des.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_cryp_des.o
+ .text.CRYP_DES_ECB
+                0x00000000       0xd0 build/clouds/stm32f4xx_cryp_des.o
+ .text.CRYP_DES_CBC
+                0x00000000       0xe8 build/clouds/stm32f4xx_cryp_des.o
+ .debug_info    0x00000000      0x761 build/clouds/stm32f4xx_cryp_des.o
+ .debug_abbrev  0x00000000      0x1ef build/clouds/stm32f4xx_cryp_des.o
+ .debug_loc     0x00000000      0x632 build/clouds/stm32f4xx_cryp_des.o
+ .debug_aranges
+                0x00000000       0x28 build/clouds/stm32f4xx_cryp_des.o
+ .debug_ranges  0x00000000       0x18 build/clouds/stm32f4xx_cryp_des.o
+ .debug_line    0x00000000      0x25d build/clouds/stm32f4xx_cryp_des.o
+ .debug_str     0x00000000      0x505 build/clouds/stm32f4xx_cryp_des.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_cryp_des.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_cryp_des.o
+ .debug_frame   0x00000000       0x5c build/clouds/stm32f4xx_cryp_des.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_cryp_tdes.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_cryp_tdes.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_cryp_tdes.o
+ .text.CRYP_TDES_ECB
+                0x00000000       0xe8 build/clouds/stm32f4xx_cryp_tdes.o
+ .text.CRYP_TDES_CBC
+                0x00000000      0x104 build/clouds/stm32f4xx_cryp_tdes.o
+ .debug_info    0x00000000      0x8df build/clouds/stm32f4xx_cryp_tdes.o
+ .debug_abbrev  0x00000000      0x1ef build/clouds/stm32f4xx_cryp_tdes.o
+ .debug_loc     0x00000000      0x877 build/clouds/stm32f4xx_cryp_tdes.o
+ .debug_aranges
+                0x00000000       0x28 build/clouds/stm32f4xx_cryp_tdes.o
+ .debug_ranges  0x00000000       0x18 build/clouds/stm32f4xx_cryp_tdes.o
+ .debug_line    0x00000000      0x2be build/clouds/stm32f4xx_cryp_tdes.o
+ .debug_str     0x00000000      0x50b build/clouds/stm32f4xx_cryp_tdes.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_cryp_tdes.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_cryp_tdes.o
+ .debug_frame   0x00000000       0x5c build/clouds/stm32f4xx_cryp_tdes.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_dac.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_dac.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_dac.o
+ .text.DAC_DeInit
+                0x00000000       0x1c build/clouds/stm32f4xx_dac.o
+ .text.DAC_Init
+                0x00000000       0x38 build/clouds/stm32f4xx_dac.o
+ .text.DAC_StructInit
+                0x00000000        0xc build/clouds/stm32f4xx_dac.o
+ .text.DAC_Cmd  0x00000000       0x2c build/clouds/stm32f4xx_dac.o
+ .text.DAC_SoftwareTriggerCmd
+                0x00000000       0x2c build/clouds/stm32f4xx_dac.o
+ .text.DAC_DualSoftwareTriggerCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_dac.o
+ .text.DAC_WaveGenerationCmd
+                0x00000000       0x24 build/clouds/stm32f4xx_dac.o
+ .text.DAC_SetChannel1Data
+                0x00000000       0x20 build/clouds/stm32f4xx_dac.o
+ .text.DAC_SetChannel2Data
+                0x00000000       0x20 build/clouds/stm32f4xx_dac.o
+ .text.DAC_SetDualChannelData
+                0x00000000       0x18 build/clouds/stm32f4xx_dac.o
+ .text.DAC_GetDataOutputValue
+                0x00000000       0x24 build/clouds/stm32f4xx_dac.o
+ .text.DAC_DMACmd
+                0x00000000       0x2c build/clouds/stm32f4xx_dac.o
+ .text.DAC_ITConfig
+                0x00000000       0x24 build/clouds/stm32f4xx_dac.o
+ .text.DAC_GetFlagStatus
+                0x00000000       0x14 build/clouds/stm32f4xx_dac.o
+ .text.DAC_ClearFlag
+                0x00000000        0xc build/clouds/stm32f4xx_dac.o
+ .text.DAC_GetITStatus
+                0x00000000       0x1c build/clouds/stm32f4xx_dac.o
+ .text.DAC_ClearITPendingBit
+                0x00000000        0xc build/clouds/stm32f4xx_dac.o
+ .debug_info    0x00000000      0x676 build/clouds/stm32f4xx_dac.o
+ .debug_abbrev  0x00000000      0x1d2 build/clouds/stm32f4xx_dac.o
+ .debug_loc     0x00000000      0x586 build/clouds/stm32f4xx_dac.o
+ .debug_aranges
+                0x00000000       0xa0 build/clouds/stm32f4xx_dac.o
+ .debug_ranges  0x00000000       0x90 build/clouds/stm32f4xx_dac.o
+ .debug_line    0x00000000      0x2e6 build/clouds/stm32f4xx_dac.o
+ .debug_str     0x00000000      0x508 build/clouds/stm32f4xx_dac.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_dac.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_dac.o
+ .debug_frame   0x00000000      0x140 build/clouds/stm32f4xx_dac.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_dbgmcu.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_dbgmcu.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_GetREVID
+                0x00000000        0xc build/clouds/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_GetDEVID
+                0x00000000       0x10 build/clouds/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_Config
+                0x00000000       0x1c build/clouds/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_APB1PeriphConfig
+                0x00000000       0x1c build/clouds/stm32f4xx_dbgmcu.o
+ .text.DBGMCU_APB2PeriphConfig
+                0x00000000       0x1c build/clouds/stm32f4xx_dbgmcu.o
+ .debug_info    0x00000000      0x1d0 build/clouds/stm32f4xx_dbgmcu.o
+ .debug_abbrev  0x00000000       0xe0 build/clouds/stm32f4xx_dbgmcu.o
+ .debug_loc     0x00000000       0xe7 build/clouds/stm32f4xx_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x40 build/clouds/stm32f4xx_dbgmcu.o
+ .debug_ranges  0x00000000       0x30 build/clouds/stm32f4xx_dbgmcu.o
+ .debug_line    0x00000000      0x15e build/clouds/stm32f4xx_dbgmcu.o
+ .debug_str     0x00000000      0x2f3 build/clouds/stm32f4xx_dbgmcu.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_dbgmcu.o
+ .debug_frame   0x00000000       0x60 build/clouds/stm32f4xx_dbgmcu.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_dcmi.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_dcmi.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_DeInit
+                0x00000000       0x1c build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_Init
+                0x00000000       0x50 build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_StructInit
+                0x00000000       0x14 build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_CROPConfig
+                0x00000000       0x20 build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_CROPCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_SetEmbeddedSynchroCodes
+                0x00000000       0x24 build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_JPEGCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_Cmd
+                0x00000000       0x1c build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_CaptureCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_ReadData
+                0x00000000        0xc build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_ITConfig
+                0x00000000       0x20 build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_GetFlagStatus
+                0x00000000       0x24 build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_ClearFlag
+                0x00000000        0xc build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_GetITStatus
+                0x00000000       0x14 build/clouds/stm32f4xx_dcmi.o
+ .text.DCMI_ClearITPendingBit
+                0x00000000        0xc build/clouds/stm32f4xx_dcmi.o
+ .debug_info    0x00000000      0x532 build/clouds/stm32f4xx_dcmi.o
+ .debug_abbrev  0x00000000      0x1a7 build/clouds/stm32f4xx_dcmi.o
+ .debug_loc     0x00000000      0x313 build/clouds/stm32f4xx_dcmi.o
+ .debug_aranges
+                0x00000000       0x90 build/clouds/stm32f4xx_dcmi.o
+ .debug_ranges  0x00000000       0x80 build/clouds/stm32f4xx_dcmi.o
+ .debug_line    0x00000000      0x2b9 build/clouds/stm32f4xx_dcmi.o
+ .debug_str     0x00000000      0x577 build/clouds/stm32f4xx_dcmi.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_dcmi.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_dcmi.o
+ .debug_frame   0x00000000      0x11c build/clouds/stm32f4xx_dcmi.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_dma.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_dma.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_dma.o
+ .text.DMA_StructInit
+                0x00000000       0x24 build/clouds/stm32f4xx_dma.o
+ .text.DMA_PeriphIncOffsetSizeConfig
+                0x00000000       0x14 build/clouds/stm32f4xx_dma.o
+ .text.DMA_FlowControllerConfig
+                0x00000000       0x14 build/clouds/stm32f4xx_dma.o
+ .text.DMA_SetCurrDataCounter
+                0x00000000        0x4 build/clouds/stm32f4xx_dma.o
+ .text.DMA_GetCurrDataCounter
+                0x00000000        0x8 build/clouds/stm32f4xx_dma.o
+ .text.DMA_DoubleBufferModeConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_dma.o
+ .text.DMA_DoubleBufferModeCmd
+                0x00000000       0x14 build/clouds/stm32f4xx_dma.o
+ .text.DMA_MemoryTargetConfig
+                0x00000000        0xc build/clouds/stm32f4xx_dma.o
+ .text.DMA_GetCurrentMemoryTarget
+                0x00000000        0x8 build/clouds/stm32f4xx_dma.o
+ .text.DMA_GetCmdStatus
+                0x00000000        0x8 build/clouds/stm32f4xx_dma.o
+ .text.DMA_GetFIFOStatus
+                0x00000000        0x8 build/clouds/stm32f4xx_dma.o
+ .text.DMA_GetFlagStatus
+                0x00000000       0x3c build/clouds/stm32f4xx_dma.o
+ .text.DMA_ClearFlag
+                0x00000000       0x34 build/clouds/stm32f4xx_dma.o
+ .text.DMA_GetITStatus
+                0x00000000       0x54 build/clouds/stm32f4xx_dma.o
+ .text.DMA_ClearITPendingBit
+                0x00000000       0x34 build/clouds/stm32f4xx_dma.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_exti.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_exti.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_exti.o
+ .text.EXTI_DeInit
+                0x00000000       0x1c build/clouds/stm32f4xx_exti.o
+ .text.EXTI_Init
+                0x00000000       0x88 build/clouds/stm32f4xx_exti.o
+ .text.EXTI_StructInit
+                0x00000000       0x10 build/clouds/stm32f4xx_exti.o
+ .text.EXTI_GenerateSWInterrupt
+                0x00000000       0x10 build/clouds/stm32f4xx_exti.o
+ .text.EXTI_GetFlagStatus
+                0x00000000       0x14 build/clouds/stm32f4xx_exti.o
+ .text.EXTI_ClearFlag
+                0x00000000        0xc build/clouds/stm32f4xx_exti.o
+ .text.EXTI_GetITStatus
+                0x00000000       0x20 build/clouds/stm32f4xx_exti.o
+ .text.EXTI_ClearITPendingBit
+                0x00000000        0xc build/clouds/stm32f4xx_exti.o
+ .debug_info    0x00000000      0x33a build/clouds/stm32f4xx_exti.o
+ .debug_abbrev  0x00000000      0x1c5 build/clouds/stm32f4xx_exti.o
+ .debug_loc     0x00000000      0x21a build/clouds/stm32f4xx_exti.o
+ .debug_aranges
+                0x00000000       0x58 build/clouds/stm32f4xx_exti.o
+ .debug_ranges  0x00000000       0x48 build/clouds/stm32f4xx_exti.o
+ .debug_line    0x00000000      0x219 build/clouds/stm32f4xx_exti.o
+ .debug_str     0x00000000      0x40c build/clouds/stm32f4xx_exti.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_exti.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_exti.o
+ .debug_frame   0x00000000       0x9c build/clouds/stm32f4xx_exti.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_flash.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_flash.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_flash.o
+ .text.FLASH_SetLatency
+                0x00000000        0xc build/clouds/stm32f4xx_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_flash.o
+ .text.FLASH_InstructionCacheCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_flash.o
+ .text.FLASH_DataCacheCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_flash.o
+ .text.FLASH_InstructionCacheReset
+                0x00000000       0x10 build/clouds/stm32f4xx_flash.o
+ .text.FLASH_DataCacheReset
+                0x00000000       0x10 build/clouds/stm32f4xx_flash.o
+ .text.FLASH_Lock
+                0x00000000       0x10 build/clouds/stm32f4xx_flash.o
+ .text.FLASH_OB_Unlock
+                0x00000000       0x20 build/clouds/stm32f4xx_flash.o
+ .text.FLASH_OB_Lock
+                0x00000000       0x10 build/clouds/stm32f4xx_flash.o
+ .text.FLASH_OB_BORConfig
+                0x00000000       0x1c build/clouds/stm32f4xx_flash.o
+ .text.FLASH_OB_GetUser
+                0x00000000       0x10 build/clouds/stm32f4xx_flash.o
+ .text.FLASH_OB_GetWRP
+                0x00000000        0xc build/clouds/stm32f4xx_flash.o
+ .text.FLASH_OB_GetRDP
+                0x00000000       0x10 build/clouds/stm32f4xx_flash.o
+ .text.FLASH_OB_GetBOR
+                0x00000000       0x10 build/clouds/stm32f4xx_flash.o
+ .text.FLASH_ITConfig
+                0x00000000       0x1c build/clouds/stm32f4xx_flash.o
+ .text.FLASH_GetFlagStatus
+                0x00000000       0x14 build/clouds/stm32f4xx_flash.o
+ .text.FLASH_EraseAllSectors
+                0x00000000       0x5c build/clouds/stm32f4xx_flash.o
+ .text.FLASH_ProgramDoubleWord
+                0x00000000       0x44 build/clouds/stm32f4xx_flash.o
+ .text.FLASH_ProgramByte
+                0x00000000       0x3c build/clouds/stm32f4xx_flash.o
+ .text.FLASH_OB_WRPConfig
+                0x00000000       0x30 build/clouds/stm32f4xx_flash.o
+ .text.FLASH_OB_RDPConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_flash.o
+ .text.FLASH_OB_UserConfig
+                0x00000000       0x2c build/clouds/stm32f4xx_flash.o
+ .text.FLASH_OB_Launch
+                0x00000000       0x14 build/clouds/stm32f4xx_flash.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_fsmc.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_fsmc.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_NORSRAMDeInit
+                0x00000000       0x38 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_NORSRAMInit
+                0x00000000       0xe8 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_NORSRAMStructInit
+                0x00000000       0x50 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_NORSRAMCmd
+                0x00000000       0x2c build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_NANDDeInit
+                0x00000000       0x24 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_NANDInit
+                0x00000000       0x80 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_NANDStructInit
+                0x00000000       0x30 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_NANDCmd
+                0x00000000       0x34 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_NANDECCCmd
+                0x00000000       0x34 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_GetECC
+                0x00000000       0x14 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_PCCARDDeInit
+                0x00000000       0x1c build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_PCCARDInit
+                0x00000000       0x68 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_PCCARDStructInit
+                0x00000000       0x30 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_PCCARDCmd
+                0x00000000       0x24 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_ITConfig
+                0x00000000       0x54 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_GetFlagStatus
+                0x00000000       0x2c build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_ClearFlag
+                0x00000000       0x30 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_GetITStatus
+                0x00000000       0x34 build/clouds/stm32f4xx_fsmc.o
+ .text.FSMC_ClearITPendingBit
+                0x00000000       0x30 build/clouds/stm32f4xx_fsmc.o
+ .debug_info    0x00000000      0x8f3 build/clouds/stm32f4xx_fsmc.o
+ .debug_abbrev  0x00000000      0x190 build/clouds/stm32f4xx_fsmc.o
+ .debug_loc     0x00000000      0x5e8 build/clouds/stm32f4xx_fsmc.o
+ .debug_aranges
+                0x00000000       0xb0 build/clouds/stm32f4xx_fsmc.o
+ .debug_ranges  0x00000000       0xa0 build/clouds/stm32f4xx_fsmc.o
+ .debug_line    0x00000000      0x414 build/clouds/stm32f4xx_fsmc.o
+ .debug_str     0x00000000      0x832 build/clouds/stm32f4xx_fsmc.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_fsmc.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_fsmc.o
+ .debug_frame   0x00000000      0x198 build/clouds/stm32f4xx_fsmc.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_gpio.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_gpio.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_gpio.o
+ .text.GPIO_DeInit
+                0x00000000      0x118 build/clouds/stm32f4xx_gpio.o
+ .text.GPIO_StructInit
+                0x00000000       0x14 build/clouds/stm32f4xx_gpio.o
+ .text.GPIO_PinLockConfig
+                0x00000000       0x28 build/clouds/stm32f4xx_gpio.o
+ .text.GPIO_ReadInputData
+                0x00000000        0x8 build/clouds/stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc build/clouds/stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputData
+                0x00000000        0x8 build/clouds/stm32f4xx_gpio.o
+ .text.GPIO_SetBits
+                0x00000000        0x4 build/clouds/stm32f4xx_gpio.o
+ .text.GPIO_ResetBits
+                0x00000000        0x4 build/clouds/stm32f4xx_gpio.o
+ .text.GPIO_Write
+                0x00000000        0x4 build/clouds/stm32f4xx_gpio.o
+ .text.GPIO_ToggleBits
+                0x00000000        0x8 build/clouds/stm32f4xx_gpio.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_hash.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_hash.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_hash.o
+ .text.HASH_DeInit
+                0x00000000       0x18 build/clouds/stm32f4xx_hash.o
+ .text.HASH_Init
+                0x00000000       0x48 build/clouds/stm32f4xx_hash.o
+ .text.HASH_StructInit
+                0x00000000        0xc build/clouds/stm32f4xx_hash.o
+ .text.HASH_Reset
+                0x00000000       0x10 build/clouds/stm32f4xx_hash.o
+ .text.HASH_SetLastWordValidBitsNbr
+                0x00000000       0x18 build/clouds/stm32f4xx_hash.o
+ .text.HASH_DataIn
+                0x00000000        0xc build/clouds/stm32f4xx_hash.o
+ .text.HASH_GetInFIFOWordsNbr
+                0x00000000       0x10 build/clouds/stm32f4xx_hash.o
+ .text.HASH_GetDigest
+                0x00000000       0x1c build/clouds/stm32f4xx_hash.o
+ .text.HASH_StartDigest
+                0x00000000       0x10 build/clouds/stm32f4xx_hash.o
+ .text.HASH_SaveContext
+                0x00000000       0x94 build/clouds/stm32f4xx_hash.o
+ .text.HASH_RestoreContext
+                0x00000000       0x98 build/clouds/stm32f4xx_hash.o
+ .text.HASH_DMACmd
+                0x00000000       0x1c build/clouds/stm32f4xx_hash.o
+ .text.HASH_ITConfig
+                0x00000000       0x1c build/clouds/stm32f4xx_hash.o
+ .text.HASH_GetFlagStatus
+                0x00000000       0x18 build/clouds/stm32f4xx_hash.o
+ .text.HASH_ClearFlag
+                0x00000000        0xc build/clouds/stm32f4xx_hash.o
+ .text.HASH_GetITStatus
+                0x00000000       0x1c build/clouds/stm32f4xx_hash.o
+ .text.HASH_ClearITPendingBit
+                0x00000000       0x10 build/clouds/stm32f4xx_hash.o
+ .debug_info    0x00000000      0x56a build/clouds/stm32f4xx_hash.o
+ .debug_abbrev  0x00000000      0x210 build/clouds/stm32f4xx_hash.o
+ .debug_loc     0x00000000      0x2c3 build/clouds/stm32f4xx_hash.o
+ .debug_aranges
+                0x00000000       0xa0 build/clouds/stm32f4xx_hash.o
+ .debug_ranges  0x00000000       0x90 build/clouds/stm32f4xx_hash.o
+ .debug_line    0x00000000      0x2d5 build/clouds/stm32f4xx_hash.o
+ .debug_str     0x00000000      0x4e7 build/clouds/stm32f4xx_hash.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_hash.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_hash.o
+ .debug_frame   0x00000000      0x140 build/clouds/stm32f4xx_hash.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_hash_md5.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_hash_md5.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_hash_md5.o
+ .text.HASH_MD5
+                0x00000000      0x15c build/clouds/stm32f4xx_hash_md5.o
+ .text.HMAC_MD5
+                0x00000000      0x3ac build/clouds/stm32f4xx_hash_md5.o
+ .debug_info    0x00000000      0x8a8 build/clouds/stm32f4xx_hash_md5.o
+ .debug_abbrev  0x00000000      0x213 build/clouds/stm32f4xx_hash_md5.o
+ .debug_loc     0x00000000      0x99a build/clouds/stm32f4xx_hash_md5.o
+ .debug_aranges
+                0x00000000       0x28 build/clouds/stm32f4xx_hash_md5.o
+ .debug_ranges  0x00000000       0x30 build/clouds/stm32f4xx_hash_md5.o
+ .debug_line    0x00000000      0x424 build/clouds/stm32f4xx_hash_md5.o
+ .debug_str     0x00000000      0x40d build/clouds/stm32f4xx_hash_md5.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_hash_md5.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_hash_md5.o
+ .debug_frame   0x00000000       0x58 build/clouds/stm32f4xx_hash_md5.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_hash_sha1.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_hash_sha1.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_hash_sha1.o
+ .text.HASH_SHA1
+                0x00000000      0x160 build/clouds/stm32f4xx_hash_sha1.o
+ .text.HMAC_SHA1
+                0x00000000      0x3ac build/clouds/stm32f4xx_hash_sha1.o
+ .debug_info    0x00000000      0x8fc build/clouds/stm32f4xx_hash_sha1.o
+ .debug_abbrev  0x00000000      0x21c build/clouds/stm32f4xx_hash_sha1.o
+ .debug_loc     0x00000000      0x9f2 build/clouds/stm32f4xx_hash_sha1.o
+ .debug_aranges
+                0x00000000       0x28 build/clouds/stm32f4xx_hash_sha1.o
+ .debug_ranges  0x00000000       0x30 build/clouds/stm32f4xx_hash_sha1.o
+ .debug_line    0x00000000      0x43a build/clouds/stm32f4xx_hash_sha1.o
+ .debug_str     0x00000000      0x412 build/clouds/stm32f4xx_hash_sha1.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_hash_sha1.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_hash_sha1.o
+ .debug_frame   0x00000000       0x58 build/clouds/stm32f4xx_hash_sha1.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_i2c.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_i2c.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_StructInit
+                0x00000000       0x24 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_AcknowledgeConfig
+                0x00000000       0x20 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x14 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_DualAddressCmd
+                0x00000000       0x20 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x20 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_SoftwareResetCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_i2c.o
+ .text.I2C_StretchClockCmd
+                0x00000000       0x20 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x20 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_NACKPositionConfig
+                0x00000000       0x24 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x24 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_ARPCmd
+                0x00000000       0x20 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_ReceiveData
+                0x00000000        0x8 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_TransmitPEC
+                0x00000000       0x20 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_PECPositionConfig
+                0x00000000       0x24 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_CalculatePEC
+                0x00000000       0x20 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_GetPEC
+                0x00000000        0x8 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_DMACmd
+                0x00000000       0x20 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x20 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_ReadRegister
+                0x00000000       0x18 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_ITConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_GetLastEvent
+                0x00000000       0x10 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_ClearFlag
+                0x00000000        0x8 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_GetITStatus
+                0x00000000       0x20 build/clouds/stm32f4xx_i2c.o
+ .text.I2C_ClearITPendingBit
+                0x00000000        0x8 build/clouds/stm32f4xx_i2c.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_iwdg.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_iwdg.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_iwdg.o
+ .text.IWDG_WriteAccessCmd
+                0x00000000        0xc build/clouds/stm32f4xx_iwdg.o
+ .text.IWDG_SetPrescaler
+                0x00000000        0xc build/clouds/stm32f4xx_iwdg.o
+ .text.IWDG_SetReload
+                0x00000000        0xc build/clouds/stm32f4xx_iwdg.o
+ .text.IWDG_ReloadCounter
+                0x00000000       0x10 build/clouds/stm32f4xx_iwdg.o
+ .text.IWDG_Enable
+                0x00000000       0x10 build/clouds/stm32f4xx_iwdg.o
+ .text.IWDG_GetFlagStatus
+                0x00000000       0x14 build/clouds/stm32f4xx_iwdg.o
+ .debug_info    0x00000000      0x1e1 build/clouds/stm32f4xx_iwdg.o
+ .debug_abbrev  0x00000000      0x112 build/clouds/stm32f4xx_iwdg.o
+ .debug_loc     0x00000000       0x62 build/clouds/stm32f4xx_iwdg.o
+ .debug_aranges
+                0x00000000       0x48 build/clouds/stm32f4xx_iwdg.o
+ .debug_ranges  0x00000000       0x38 build/clouds/stm32f4xx_iwdg.o
+ .debug_line    0x00000000      0x166 build/clouds/stm32f4xx_iwdg.o
+ .debug_str     0x00000000      0x30a build/clouds/stm32f4xx_iwdg.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_iwdg.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_iwdg.o
+ .debug_frame   0x00000000       0x70 build/clouds/stm32f4xx_iwdg.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_pwr.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_pwr.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_pwr.o
+ .text.PWR_DeInit
+                0x00000000       0x1c build/clouds/stm32f4xx_pwr.o
+ .text.PWR_BackupAccessCmd
+                0x00000000        0xc build/clouds/stm32f4xx_pwr.o
+ .text.PWR_PVDLevelConfig
+                0x00000000       0x14 build/clouds/stm32f4xx_pwr.o
+ .text.PWR_PVDCmd
+                0x00000000        0xc build/clouds/stm32f4xx_pwr.o
+ .text.PWR_WakeUpPinCmd
+                0x00000000        0xc build/clouds/stm32f4xx_pwr.o
+ .text.PWR_BackupRegulatorCmd
+                0x00000000        0xc build/clouds/stm32f4xx_pwr.o
+ .text.PWR_MainRegulatorModeConfig
+                0x00000000       0x1c build/clouds/stm32f4xx_pwr.o
+ .text.PWR_FlashPowerDownCmd
+                0x00000000        0xc build/clouds/stm32f4xx_pwr.o
+ .text.PWR_EnterSTOPMode
+                0x00000000       0x3c build/clouds/stm32f4xx_pwr.o
+ .text.PWR_EnterSTANDBYMode
+                0x00000000       0x28 build/clouds/stm32f4xx_pwr.o
+ .text.PWR_GetFlagStatus
+                0x00000000       0x14 build/clouds/stm32f4xx_pwr.o
+ .text.PWR_ClearFlag
+                0x00000000       0x10 build/clouds/stm32f4xx_pwr.o
+ .debug_info    0x00000000      0x520 build/clouds/stm32f4xx_pwr.o
+ .debug_abbrev  0x00000000      0x1c6 build/clouds/stm32f4xx_pwr.o
+ .debug_loc     0x00000000      0x19b build/clouds/stm32f4xx_pwr.o
+ .debug_aranges
+                0x00000000       0x78 build/clouds/stm32f4xx_pwr.o
+ .debug_ranges  0x00000000       0x68 build/clouds/stm32f4xx_pwr.o
+ .debug_line    0x00000000      0x25e build/clouds/stm32f4xx_pwr.o
+ .debug_str     0x00000000      0x446 build/clouds/stm32f4xx_pwr.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_pwr.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_pwr.o
+ .debug_frame   0x00000000       0xe0 build/clouds/stm32f4xx_pwr.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_rcc.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_rcc.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_DeInit
+                0x00000000       0x34 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_HSEConfig
+                0x00000000       0x10 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x38 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_HSICmd
+                0x00000000        0xc build/clouds/stm32f4xx_rcc.o
+ .text.RCC_LSEConfig
+                0x00000000       0x20 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_LSICmd
+                0x00000000        0xc build/clouds/stm32f4xx_rcc.o
+ .text.RCC_PLLConfig
+                0x00000000       0x24 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_PLLCmd
+                0x00000000        0xc build/clouds/stm32f4xx_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc build/clouds/stm32f4xx_rcc.o
+ .text.RCC_MCO1Config
+                0x00000000       0x18 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_MCO2Config
+                0x00000000       0x18 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x34 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc build/clouds/stm32f4xx_rcc.o
+ .text.RCC_BackupResetCmd
+                0x00000000        0xc build/clouds/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphResetCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphResetCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphResetCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphClockLPModeCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockLPModeCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockLPModeCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_rcc.o
+ .text.RCC_ITConfig
+                0x00000000       0x1c build/clouds/stm32f4xx_rcc.o
+ .text.RCC_ClearFlag
+                0x00000000       0x10 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_GetITStatus
+                0x00000000       0x14 build/clouds/stm32f4xx_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc build/clouds/stm32f4xx_rcc.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_rng.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_rng.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_rng.o
+ .text.RNG_DeInit
+                0x00000000       0x18 build/clouds/stm32f4xx_rng.o
+ .text.RNG_Cmd  0x00000000       0x1c build/clouds/stm32f4xx_rng.o
+ .text.RNG_GetRandomNumber
+                0x00000000        0xc build/clouds/stm32f4xx_rng.o
+ .text.RNG_ITConfig
+                0x00000000       0x1c build/clouds/stm32f4xx_rng.o
+ .text.RNG_GetFlagStatus
+                0x00000000       0x14 build/clouds/stm32f4xx_rng.o
+ .text.RNG_ClearFlag
+                0x00000000       0x10 build/clouds/stm32f4xx_rng.o
+ .text.RNG_GetITStatus
+                0x00000000       0x14 build/clouds/stm32f4xx_rng.o
+ .text.RNG_ClearITPendingBit
+                0x00000000       0x10 build/clouds/stm32f4xx_rng.o
+ .debug_info    0x00000000      0x2b0 build/clouds/stm32f4xx_rng.o
+ .debug_abbrev  0x00000000      0x16d build/clouds/stm32f4xx_rng.o
+ .debug_loc     0x00000000      0x15a build/clouds/stm32f4xx_rng.o
+ .debug_aranges
+                0x00000000       0x58 build/clouds/stm32f4xx_rng.o
+ .debug_ranges  0x00000000       0x48 build/clouds/stm32f4xx_rng.o
+ .debug_line    0x00000000      0x1dd build/clouds/stm32f4xx_rng.o
+ .debug_str     0x00000000      0x339 build/clouds/stm32f4xx_rng.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_rng.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_rng.o
+ .debug_frame   0x00000000       0x98 build/clouds/stm32f4xx_rng.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_rtc.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_rtc.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_StructInit
+                0x00000000        0xc build/clouds/stm32f4xx_rtc.o
+ .text.RTC_WriteProtectionCmd
+                0x00000000       0x18 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_EnterInitMode
+                0x00000000       0x44 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_Init
+                0x00000000       0x4c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_ExitInitMode
+                0x00000000       0x10 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_WaitForSynchro
+                0x00000000       0x48 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_DeInit
+                0x00000000       0x8c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_RefClockCmd
+                0x00000000       0x40 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_BypassShadowCmd
+                0x00000000       0x30 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_SetTime
+                0x00000000      0x3ac build/clouds/stm32f4xx_rtc.o
+ .text.RTC_TimeStructInit
+                0x00000000        0xc build/clouds/stm32f4xx_rtc.o
+ .text.RTC_GetTime
+                0x00000000       0x5c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_GetSubSecond
+                0x00000000        0xc build/clouds/stm32f4xx_rtc.o
+ .text.RTC_SetDate
+                0x00000000      0x3a4 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_DateStructInit
+                0x00000000       0x10 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_GetDate
+                0x00000000       0x5c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_SetAlarm
+                0x00000000      0x4e4 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_AlarmStructInit
+                0x00000000       0x14 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_GetAlarm
+                0x00000000       0x94 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_AlarmCmd
+                0x00000000       0x5c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_AlarmSubSecondConfig
+                0x00000000       0x30 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_GetAlarmSubSecond
+                0x00000000       0x18 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_WakeUpClockConfig
+                0x00000000       0x24 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_SetWakeUpCounter
+                0x00000000       0x1c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_GetWakeUpCounter
+                0x00000000        0xc build/clouds/stm32f4xx_rtc.o
+ .text.RTC_WakeUpCmd
+                0x00000000       0x5c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_DayLightSavingConfig
+                0x00000000       0x2c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_GetStoreOperation
+                0x00000000       0x10 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_OutputConfig
+                0x00000000       0x2c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_CoarseCalibConfig
+                0x00000000       0x34 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_CoarseCalibCmd
+                0x00000000       0x40 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_CalibOutputCmd
+                0x00000000       0x30 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_CalibOutputConfig
+                0x00000000       0x24 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_SmoothCalibConfig
+                0x00000000       0x74 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_TimeStampCmd
+                0x00000000       0x38 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_GetTimeStamp
+                0x00000000       0xcc build/clouds/stm32f4xx_rtc.o
+ .text.RTC_GetTimeStampSubSecond
+                0x00000000        0xc build/clouds/stm32f4xx_rtc.o
+ .text.RTC_TamperTriggerConfig
+                0x00000000       0x1c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_TamperCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_TamperFilterConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_TamperSamplingFreqConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_TamperPinsPrechargeDuration
+                0x00000000       0x18 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_TimeStampOnTamperDetectionCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_TamperPullUpCmd
+                0x00000000       0x1c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_WriteBackupRegister
+                0x00000000       0x20 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_ReadBackupRegister
+                0x00000000       0x20 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_TamperPinSelection
+                0x00000000       0x18 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_TimeStampPinSelection
+                0x00000000       0x18 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_OutputTypeConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_SynchroShiftConfig
+                0x00000000       0x94 build/clouds/stm32f4xx_rtc.o
+ .text.RTC_ITConfig
+                0x00000000       0x4c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_GetFlagStatus
+                0x00000000       0x1c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_ClearFlag
+                0x00000000       0x1c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_GetITStatus
+                0x00000000       0x3c build/clouds/stm32f4xx_rtc.o
+ .text.RTC_ClearITPendingBit
+                0x00000000       0x1c build/clouds/stm32f4xx_rtc.o
+ .debug_info    0x00000000     0x1643 build/clouds/stm32f4xx_rtc.o
+ .debug_abbrev  0x00000000      0x25b build/clouds/stm32f4xx_rtc.o
+ .debug_loc     0x00000000     0x1c0f build/clouds/stm32f4xx_rtc.o
+ .debug_aranges
+                0x00000000      0x1d0 build/clouds/stm32f4xx_rtc.o
+ .debug_ranges  0x00000000      0x520 build/clouds/stm32f4xx_rtc.o
+ .debug_line    0x00000000      0xc07 build/clouds/stm32f4xx_rtc.o
+ .debug_str     0x00000000      0xbf1 build/clouds/stm32f4xx_rtc.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_rtc.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_rtc.o
+ .debug_frame   0x00000000      0x488 build/clouds/stm32f4xx_rtc.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_sdio.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_sdio.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_DeInit
+                0x00000000       0x1c build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_Init
+                0x00000000       0x3c build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_StructInit
+                0x00000000       0x10 build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_ClockCmd
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_SetPowerState
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_GetPowerState
+                0x00000000       0x10 build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_SendCommand
+                0x00000000       0x34 build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_CmdStructInit
+                0x00000000       0x10 build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_GetCommandResponse
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_GetResponse
+                0x00000000       0x18 build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_DataConfig
+                0x00000000       0x34 build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_DataStructInit
+                0x00000000       0x14 build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_GetDataCounter
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_ReadData
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_WriteData
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_GetFIFOCount
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_StartSDIOReadWait
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_StopSDIOReadWait
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_SetSDIOReadWaitMode
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_SetSDIOOperation
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_SendSDIOSuspendCmd
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_CommandCompletionCmd
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_CEATAITCmd
+                0x00000000       0x14 build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_SendCEATACmd
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_DMACmd
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_ITConfig
+                0x00000000       0x1c build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_GetFlagStatus
+                0x00000000       0x14 build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_ClearFlag
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_GetITStatus
+                0x00000000       0x14 build/clouds/stm32f4xx_sdio.o
+ .text.SDIO_ClearITPendingBit
+                0x00000000        0xc build/clouds/stm32f4xx_sdio.o
+ .debug_info    0x00000000      0x81e build/clouds/stm32f4xx_sdio.o
+ .debug_abbrev  0x00000000      0x1af build/clouds/stm32f4xx_sdio.o
+ .debug_loc     0x00000000      0x235 build/clouds/stm32f4xx_sdio.o
+ .debug_aranges
+                0x00000000      0x108 build/clouds/stm32f4xx_sdio.o
+ .debug_ranges  0x00000000       0xf8 build/clouds/stm32f4xx_sdio.o
+ .debug_line    0x00000000      0x3d0 build/clouds/stm32f4xx_sdio.o
+ .debug_str     0x00000000      0x700 build/clouds/stm32f4xx_sdio.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_sdio.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_sdio.o
+ .debug_frame   0x00000000      0x218 build/clouds/stm32f4xx_sdio.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_spi.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_spi.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_spi.o
+ .text.SPI_Init
+                0x00000000       0x58 build/clouds/stm32f4xx_spi.o
+ .text.SPI_StructInit
+                0x00000000       0x18 build/clouds/stm32f4xx_spi.o
+ .text.I2S_StructInit
+                0x00000000       0x14 build/clouds/stm32f4xx_spi.o
+ .text.SPI_Cmd  0x00000000       0x20 build/clouds/stm32f4xx_spi.o
+ .text.SPI_DataSizeConfig
+                0x00000000       0x20 build/clouds/stm32f4xx_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x24 build/clouds/stm32f4xx_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x24 build/clouds/stm32f4xx_spi.o
+ .text.SPI_SSOutputCmd
+                0x00000000       0x20 build/clouds/stm32f4xx_spi.o
+ .text.SPI_TIModeCmd
+                0x00000000       0x20 build/clouds/stm32f4xx_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x00000000        0x8 build/clouds/stm32f4xx_spi.o
+ .text.SPI_I2S_SendData
+                0x00000000        0x4 build/clouds/stm32f4xx_spi.o
+ .text.SPI_CalculateCRC
+                0x00000000       0x20 build/clouds/stm32f4xx_spi.o
+ .text.SPI_TransmitCRC
+                0x00000000        0xc build/clouds/stm32f4xx_spi.o
+ .text.SPI_GetCRC
+                0x00000000        0xc build/clouds/stm32f4xx_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x00000000        0x8 build/clouds/stm32f4xx_spi.o
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x24 build/clouds/stm32f4xx_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x00000000        0xc build/clouds/stm32f4xx_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x00000000        0x8 build/clouds/stm32f4xx_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x30 build/clouds/stm32f4xx_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x18 build/clouds/stm32f4xx_spi.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_syscfg.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_syscfg.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_syscfg.o
+ .text.SYSCFG_DeInit
+                0x00000000       0x1c build/clouds/stm32f4xx_syscfg.o
+ .text.SYSCFG_MemoryRemapConfig
+                0x00000000        0xc build/clouds/stm32f4xx_syscfg.o
+ .text.SYSCFG_EXTILineConfig
+                0x00000000       0x3c build/clouds/stm32f4xx_syscfg.o
+ .text.SYSCFG_ETH_MediaInterfaceConfig
+                0x00000000        0xc build/clouds/stm32f4xx_syscfg.o
+ .text.SYSCFG_CompensationCellCmd
+                0x00000000        0xc build/clouds/stm32f4xx_syscfg.o
+ .text.SYSCFG_GetCompensationCellStatus
+                0x00000000       0x10 build/clouds/stm32f4xx_syscfg.o
+ .debug_info    0x00000000      0x298 build/clouds/stm32f4xx_syscfg.o
+ .debug_abbrev  0x00000000      0x169 build/clouds/stm32f4xx_syscfg.o
+ .debug_loc     0x00000000       0x97 build/clouds/stm32f4xx_syscfg.o
+ .debug_aranges
+                0x00000000       0x48 build/clouds/stm32f4xx_syscfg.o
+ .debug_ranges  0x00000000       0x38 build/clouds/stm32f4xx_syscfg.o
+ .debug_line    0x00000000      0x1bd build/clouds/stm32f4xx_syscfg.o
+ .debug_str     0x00000000      0x3b4 build/clouds/stm32f4xx_syscfg.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_syscfg.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_syscfg.o
+ .debug_frame   0x00000000       0x80 build/clouds/stm32f4xx_syscfg.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_tim.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_tim.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_tim.o
+ .text.TIM_DeInit
+                0x00000000      0x1b8 build/clouds/stm32f4xx_tim.o
+ .text.TIM_TimeBaseInit
+                0x00000000       0xa0 build/clouds/stm32f4xx_tim.o
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_PrescalerConfig
+                0x00000000        0x8 build/clouds/stm32f4xx_tim.o
+ .text.TIM_CounterModeConfig
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SetCounter
+                0x00000000        0x4 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SetAutoreload
+                0x00000000        0x4 build/clouds/stm32f4xx_tim.o
+ .text.TIM_GetCounter
+                0x00000000        0x4 build/clouds/stm32f4xx_tim.o
+ .text.TIM_GetPrescaler
+                0x00000000        0x8 build/clouds/stm32f4xx_tim.o
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SetClockDivision
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_Cmd  0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC1Init
+                0x00000000       0x84 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC2Init
+                0x00000000       0x90 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC3Init
+                0x00000000       0x90 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC4Init
+                0x00000000       0x70 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OCStructInit
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SelectOCxM
+                0x00000000       0x6c build/clouds/stm32f4xx_tim.o
+ .text.TIM_SetCompare1
+                0x00000000        0x4 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SetCompare2
+                0x00000000        0x4 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SetCompare3
+                0x00000000        0x4 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SetCompare4
+                0x00000000        0x4 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x18 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x18 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC1PreloadConfig
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC3PreloadConfig
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC4PreloadConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC1FastConfig
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC2FastConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC3FastConfig
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC4FastConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_tim.o
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_tim.o
+ .text.TIM_CCxCmd
+                0x00000000       0x28 build/clouds/stm32f4xx_tim.o
+ .text.TIM_CCxNCmd
+                0x00000000       0x28 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ICInit
+                0x00000000      0x190 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ICStructInit
+                0x00000000       0x10 build/clouds/stm32f4xx_tim.o
+ .text.TIM_PWMIConfig
+                0x00000000      0x154 build/clouds/stm32f4xx_tim.o
+ .text.TIM_GetCapture1
+                0x00000000        0x4 build/clouds/stm32f4xx_tim.o
+ .text.TIM_GetCapture2
+                0x00000000        0x4 build/clouds/stm32f4xx_tim.o
+ .text.TIM_GetCapture3
+                0x00000000        0x4 build/clouds/stm32f4xx_tim.o
+ .text.TIM_GetCapture4
+                0x00000000        0x4 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_BDTRConfig
+                0x00000000       0x34 build/clouds/stm32f4xx_tim.o
+ .text.TIM_BDTRStructInit
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x24 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SelectCOM
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_CCPreloadControl
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ITConfig
+                0x00000000       0x18 build/clouds/stm32f4xx_tim.o
+ .text.TIM_GenerateEvent
+                0x00000000        0x4 build/clouds/stm32f4xx_tim.o
+ .text.TIM_GetFlagStatus
+                0x00000000        0xc build/clouds/stm32f4xx_tim.o
+ .text.TIM_ClearFlag
+                0x00000000        0x8 build/clouds/stm32f4xx_tim.o
+ .text.TIM_GetITStatus
+                0x00000000       0x1c build/clouds/stm32f4xx_tim.o
+ .text.TIM_ClearITPendingBit
+                0x00000000        0x8 build/clouds/stm32f4xx_tim.o
+ .text.TIM_DMAConfig
+                0x00000000        0x8 build/clouds/stm32f4xx_tim.o
+ .text.TIM_DMACmd
+                0x00000000       0x18 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SelectCCDMA
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_InternalClockConfig
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_TIxExternalClockConfig
+                0x00000000       0xa0 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0x30 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0x28 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SelectInputTrigger
+                0x00000000       0x14 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_ETRConfig
+                0x00000000       0x1c build/clouds/stm32f4xx_tim.o
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0x44 build/clouds/stm32f4xx_tim.o
+ .text.TIM_SelectHallSensor
+                0x00000000       0x20 build/clouds/stm32f4xx_tim.o
+ .text.TIM_RemapConfig
+                0x00000000        0x8 build/clouds/stm32f4xx_tim.o
+ .debug_info    0x00000000     0x24d7 build/clouds/stm32f4xx_tim.o
+ .debug_abbrev  0x00000000      0x291 build/clouds/stm32f4xx_tim.o
+ .debug_loc     0x00000000     0x2598 build/clouds/stm32f4xx_tim.o
+ .debug_aranges
+                0x00000000      0x2d8 build/clouds/stm32f4xx_tim.o
+ .debug_ranges  0x00000000      0x348 build/clouds/stm32f4xx_tim.o
+ .debug_line    0x00000000      0xbde build/clouds/stm32f4xx_tim.o
+ .debug_str     0x00000000      0xe9c build/clouds/stm32f4xx_tim.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_tim.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_tim.o
+ .debug_frame   0x00000000      0x63c build/clouds/stm32f4xx_tim.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_usart.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_usart.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_usart.o
+ .text.USART_DeInit
+                0x00000000       0xc8 build/clouds/stm32f4xx_usart.o
+ .text.USART_StructInit
+                0x00000000       0x18 build/clouds/stm32f4xx_usart.o
+ .text.USART_ClockInit
+                0x00000000       0x28 build/clouds/stm32f4xx_usart.o
+ .text.USART_ClockStructInit
+                0x00000000        0xc build/clouds/stm32f4xx_usart.o
+ .text.USART_SetPrescaler
+                0x00000000       0x18 build/clouds/stm32f4xx_usart.o
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x1c build/clouds/stm32f4xx_usart.o
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x20 build/clouds/stm32f4xx_usart.o
+ .text.USART_SendData
+                0x00000000        0x8 build/clouds/stm32f4xx_usart.o
+ .text.USART_ReceiveData
+                0x00000000        0x8 build/clouds/stm32f4xx_usart.o
+ .text.USART_SetAddress
+                0x00000000       0x20 build/clouds/stm32f4xx_usart.o
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x20 build/clouds/stm32f4xx_usart.o
+ .text.USART_WakeUpConfig
+                0x00000000       0x20 build/clouds/stm32f4xx_usart.o
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x20 build/clouds/stm32f4xx_usart.o
+ .text.USART_LINCmd
+                0x00000000       0x20 build/clouds/stm32f4xx_usart.o
+ .text.USART_SendBreak
+                0x00000000        0xc build/clouds/stm32f4xx_usart.o
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x20 build/clouds/stm32f4xx_usart.o
+ .text.USART_SetGuardTime
+                0x00000000       0x18 build/clouds/stm32f4xx_usart.o
+ .text.USART_SmartCardCmd
+                0x00000000       0x20 build/clouds/stm32f4xx_usart.o
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x20 build/clouds/stm32f4xx_usart.o
+ .text.USART_IrDAConfig
+                0x00000000       0x20 build/clouds/stm32f4xx_usart.o
+ .text.USART_IrDACmd
+                0x00000000       0x20 build/clouds/stm32f4xx_usart.o
+ .text.USART_DMACmd
+                0x00000000       0x18 build/clouds/stm32f4xx_usart.o
+ .text.USART_ITConfig
+                0x00000000       0x3c build/clouds/stm32f4xx_usart.o
+ .text.USART_GetFlagStatus
+                0x00000000        0xc build/clouds/stm32f4xx_usart.o
+ .text.USART_ClearFlag
+                0x00000000        0x8 build/clouds/stm32f4xx_usart.o
+ .text.USART_GetITStatus
+                0x00000000       0x54 build/clouds/stm32f4xx_usart.o
+ .text.USART_ClearITPendingBit
+                0x00000000       0x14 build/clouds/stm32f4xx_usart.o
+ .text          0x00000000        0x0 build/clouds/stm32f4xx_wwdg.o
+ .data          0x00000000        0x0 build/clouds/stm32f4xx_wwdg.o
+ .bss           0x00000000        0x0 build/clouds/stm32f4xx_wwdg.o
+ .text.WWDG_DeInit
+                0x00000000       0x1c build/clouds/stm32f4xx_wwdg.o
+ .text.WWDG_SetPrescaler
+                0x00000000       0x14 build/clouds/stm32f4xx_wwdg.o
+ .text.WWDG_SetWindowValue
+                0x00000000       0x28 build/clouds/stm32f4xx_wwdg.o
+ .text.WWDG_EnableIT
+                0x00000000        0xc build/clouds/stm32f4xx_wwdg.o
+ .text.WWDG_SetCounter
+                0x00000000       0x10 build/clouds/stm32f4xx_wwdg.o
+ .text.WWDG_Enable
+                0x00000000       0x10 build/clouds/stm32f4xx_wwdg.o
+ .text.WWDG_GetFlagStatus
+                0x00000000       0x10 build/clouds/stm32f4xx_wwdg.o
+ .text.WWDG_ClearFlag
+                0x00000000        0xc build/clouds/stm32f4xx_wwdg.o
+ .debug_info    0x00000000      0x281 build/clouds/stm32f4xx_wwdg.o
+ .debug_abbrev  0x00000000      0x178 build/clouds/stm32f4xx_wwdg.o
+ .debug_loc     0x00000000       0xd1 build/clouds/stm32f4xx_wwdg.o
+ .debug_aranges
+                0x00000000       0x58 build/clouds/stm32f4xx_wwdg.o
+ .debug_ranges  0x00000000       0x48 build/clouds/stm32f4xx_wwdg.o
+ .debug_line    0x00000000      0x1dd build/clouds/stm32f4xx_wwdg.o
+ .debug_str     0x00000000      0x347 build/clouds/stm32f4xx_wwdg.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_wwdg.o
+ .ARM.attributes
+                0x00000000       0x39 build/clouds/stm32f4xx_wwdg.o
+ .debug_frame   0x00000000       0x9c build/clouds/stm32f4xx_wwdg.o
+ .text          0x00000000       0x14 build/clouds/startup_stm32f4xx.o
+ .data          0x00000000        0x0 build/clouds/startup_stm32f4xx.o
+ .bss           0x00000000        0x0 build/clouds/startup_stm32f4xx.o
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .text.__aeabi_atexit
+                0x00000000        0xc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .debug_frame   0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-aeabi_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .text.__cxa_atexit
+                0x00000000       0x14 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .debug_frame   0x00000000       0x28 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-cxa_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000      0x428 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .rodata.str1.4
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x00000000       0x50 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x94 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xa8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x30 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x00000000       0x14 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .init_array.00000
+                0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xf0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x48 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .text.atexit   0x00000000        0xc /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x30 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .eh_frame      0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .jcr           0x00000000        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+ .text          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+ .data          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+ .bss           0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00020000         xrw
+CCMRAM           0x10000000         0x00010000         xrw
+FLASH            0x08008000         0x000f8000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/crt0.o
+LOAD build/clouds/clouds.o
+LOAD build/clouds/cv_scaler.o
+LOAD build/clouds/resources.o
+LOAD build/clouds/settings.o
+LOAD build/clouds/ui.o
+LOAD build/clouds/adc.o
+LOAD build/clouds/codec.o
+LOAD build/clouds/debug_port.o
+LOAD build/clouds/gate_input.o
+LOAD build/clouds/leds.o
+LOAD build/clouds/switches.o
+LOAD build/clouds/system.o
+LOAD build/clouds/correlator.o
+LOAD build/clouds/granular_processor.o
+LOAD build/clouds/mu_law.o
+LOAD build/clouds/frame_transformation.o
+LOAD build/clouds/phase_vocoder.o
+LOAD build/clouds/stft.o
+LOAD build/clouds/atan.o
+LOAD build/clouds/units.o
+LOAD build/clouds/random.o
+LOAD build/clouds/bootloader_utils.o
+LOAD build/clouds/system_clock.o
+LOAD build/clouds/core_cm3.o
+LOAD build/clouds/system_stm32f4xx.o
+LOAD build/clouds/misc.o
+LOAD build/clouds/stm32f4xx_adc.o
+LOAD build/clouds/stm32f4xx_can.o
+LOAD build/clouds/stm32f4xx_crc.o
+LOAD build/clouds/stm32f4xx_cryp_aes.o
+LOAD build/clouds/stm32f4xx_cryp.o
+LOAD build/clouds/stm32f4xx_cryp_des.o
+LOAD build/clouds/stm32f4xx_cryp_tdes.o
+LOAD build/clouds/stm32f4xx_dac.o
+LOAD build/clouds/stm32f4xx_dbgmcu.o
+LOAD build/clouds/stm32f4xx_dcmi.o
+LOAD build/clouds/stm32f4xx_dma.o
+LOAD build/clouds/stm32f4xx_exti.o
+LOAD build/clouds/stm32f4xx_flash.o
+LOAD build/clouds/stm32f4xx_fsmc.o
+LOAD build/clouds/stm32f4xx_gpio.o
+LOAD build/clouds/stm32f4xx_hash.o
+LOAD build/clouds/stm32f4xx_hash_md5.o
+LOAD build/clouds/stm32f4xx_hash_sha1.o
+LOAD build/clouds/stm32f4xx_i2c.o
+LOAD build/clouds/stm32f4xx_iwdg.o
+LOAD build/clouds/stm32f4xx_pwr.o
+LOAD build/clouds/stm32f4xx_rcc.o
+LOAD build/clouds/stm32f4xx_rng.o
+LOAD build/clouds/stm32f4xx_rtc.o
+LOAD build/clouds/stm32f4xx_sdio.o
+LOAD build/clouds/stm32f4xx_spi.o
+LOAD build/clouds/stm32f4xx_syscfg.o
+LOAD build/clouds/stm32f4xx_tim.o
+LOAD build/clouds/stm32f4xx_usart.o
+LOAD build/clouds/stm32f4xx_wwdg.o
+LOAD build/clouds/startup_stm32f4xx.o
+START GROUP
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/libgcc.a
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a
+END GROUP
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtend.o
+LOAD /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+                0x20020000                _estack = 0x20020000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08008000      0x190
+                0x08008000                . = ALIGN (0x10)
+ *(.isr_vector)
+ .isr_vector    0x08008000      0x188 build/clouds/startup_stm32f4xx.o
+                0x08008000                g_pfnVectors
+                0x08008190                . = ALIGN (0x10)
+ *fill*         0x08008188        0x8 
+
+.flashtext      0x08008190        0x0
+                0x08008190                . = ALIGN (0x10)
+ *(.flashtext)
+                0x08008190                . = ALIGN (0x10)
+
+.text           0x08008190    0x208b0
+                0x08008190                . = ALIGN (0x10)
+ *(.text)
+ .text          0x08008190      0x134 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+                0x08008190                memcpy
+ *(.text.*)
+ .text._Z10FillBufferPN6clouds5Codec5FrameES2_j
+                0x080082c4      0x17c build/clouds/clouds.o
+                0x080082c4                FillBuffer(clouds::Codec::Frame*, clouds::Codec::Frame*, unsigned int)
+ .text.NMI_Handler
+                0x08008440        0x4 build/clouds/clouds.o
+                0x08008440                NMI_Handler
+ .text.HardFault_Handler
+                0x08008444        0x4 build/clouds/clouds.o
+                0x08008444                HardFault_Handler
+ .text.MemManage_Handler
+                0x08008448        0x4 build/clouds/clouds.o
+                0x08008448                MemManage_Handler
+ .text.BusFault_Handler
+                0x0800844c        0x4 build/clouds/clouds.o
+                0x0800844c                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08008450        0x4 build/clouds/clouds.o
+                0x08008450                UsageFault_Handler
+ .text.SVC_Handler
+                0x08008454        0x4 build/clouds/clouds.o
+                0x08008454                SVC_Handler
+ .text.DebugMon_Handler
+                0x08008458        0x4 build/clouds/clouds.o
+                0x08008458                DebugMon_Handler
+ .text.PendSV_Handler
+                0x0800845c        0x4 build/clouds/clouds.o
+                0x0800845c                PendSV_Handler
+ .text.SysTick_Handler
+                0x08008460       0x28 build/clouds/clouds.o
+                0x08008460                SysTick_Handler
+ .text._Z4Initv
+                0x08008488       0xb0 build/clouds/clouds.o
+                0x08008488                Init()
+ .text.startup.main
+                0x08008538       0x1c build/clouds/clouds.o
+                0x08008538                main
+ .text._ZN6clouds8CvScaler4InitEPNS_15CalibrationDataE
+                0x08008554       0xe0 build/clouds/cv_scaler.o
+                0x08008554                clouds::CvScaler::Init(clouds::CalibrationData*)
+ .text._ZN6clouds8CvScaler21UpdateBlendParametersEff
+                0x08008634      0x208 build/clouds/cv_scaler.o
+                0x08008634                clouds::CvScaler::UpdateBlendParameters(float, float)
+ .text._ZN6clouds8CvScaler4ReadEPNS_10ParametersE
+                0x0800883c      0x3d0 build/clouds/cv_scaler.o
+                0x0800883c                clouds::CvScaler::Read(clouds::Parameters*)
+ .text._ZN6clouds8Settings4InitEv
+                0x08008c0c      0x2ac build/clouds/settings.o
+                0x08008c0c                clouds::Settings::Init()
+ .text._ZN6clouds8Settings16SaveSampleMemoryEmPNS_15PersistentBlockEj
+                0x08008eb8      0x198 build/clouds/settings.o
+                0x08008eb8                clouds::Settings::SaveSampleMemory(unsigned long, clouds::PersistentBlock*, unsigned int)
+ .text._ZN6clouds8Settings4SaveEv
+                0x08009050      0x14c build/clouds/settings.o
+                0x08009050                clouds::Settings::Save()
+ .text._ZN6clouds2Ui4InitEPNS_8SettingsEPNS_8CvScalerEPNS_17GranularProcessorEPNS_5MeterE
+                0x0800919c       0xdc build/clouds/ui.o
+                0x0800919c                clouds::Ui::Init(clouds::Settings*, clouds::CvScaler*, clouds::GranularProcessor*, clouds::Meter*)
+ .text._ZN6clouds2Ui9SaveStateEv
+                0x08009278       0xa8 build/clouds/ui.o
+                0x08009278                clouds::Ui::SaveState()
+ .text._ZN6clouds2Ui9PaintLedsEv
+                0x08009320      0x474 build/clouds/ui.o
+                0x08009320                clouds::Ui::PaintLeds()
+ .text._ZN6clouds2Ui4PollEv
+                0x08009794      0x164 build/clouds/ui.o
+                0x08009794                clouds::Ui::Poll()
+ .text._ZN6clouds2Ui11CalibrateC1Ev
+                0x080098f8       0xd4 build/clouds/ui.o
+                0x080098f8                clouds::Ui::CalibrateC1()
+ .text._ZN6clouds2Ui11CalibrateC3Ev
+                0x080099cc       0x78 build/clouds/ui.o
+                0x080099cc                clouds::Ui::CalibrateC3()
+ .text._ZN6clouds2Ui16OnSwitchReleasedERKN6stmlib5EventE
+                0x08009a44      0x1d4 build/clouds/ui.o
+                0x08009a44                clouds::Ui::OnSwitchReleased(stmlib::Event const&)
+ .text._ZN6clouds2Ui8DoEventsEv
+                0x08009c18      0x118 build/clouds/ui.o
+                0x08009c18                clouds::Ui::DoEvents()
+ .text._ZN6clouds2Ui27HandleFactoryTestingRequestEh
+                0x08009d30       0x90 build/clouds/ui.o
+                0x08009d30                clouds::Ui::HandleFactoryTestingRequest(unsigned char)
+ .text._ZN6clouds3Adc4InitEv
+                0x08009dc0      0x190 build/clouds/adc.o
+                0x08009dc0                clouds::Adc::Init()
+ .text._ZN6clouds3Adc7ConvertEv
+                0x08009f50        0xc build/clouds/adc.o
+                0x08009f50                clouds::Adc::Convert()
+ .text._ZN6clouds5Codec14InitializeGPIOEv
+                0x08009f5c       0xb8 build/clouds/codec.o
+                0x08009f5c                clouds::Codec::InitializeGPIO()
+ .text._ZN6clouds5Codec26InitializeControlInterfaceEv
+                0x0800a014       0x60 build/clouds/codec.o
+                0x0800a014                clouds::Codec::InitializeControlInterface()
+ .text._ZN6clouds5Codec24InitializeAudioInterfaceEmNS_13CodecProtocolENS_11CodecFormatE
+                0x0800a074      0x10c build/clouds/codec.o
+                0x0800a074                clouds::Codec::InitializeAudioInterface(unsigned long, clouds::CodecProtocol, clouds::CodecFormat)
+ .text._ZN6clouds5Codec20WriteControlRegisterEht
+                0x0800a180      0x2c8 build/clouds/codec.o
+                0x0800a180                clouds::Codec::WriteControlRegister(unsigned char, unsigned short)
+ .text._ZN6clouds5Codec15InitializeCodecEmNS_13CodecProtocolENS_11CodecFormatE
+                0x0800a448       0xd0 build/clouds/codec.o
+                0x0800a448                clouds::Codec::InitializeCodec(unsigned long, clouds::CodecProtocol, clouds::CodecFormat)
+ .text._ZN6clouds5Codec13InitializeDMAEv
+                0x0800a518      0x110 build/clouds/codec.o
+                0x0800a518                clouds::Codec::InitializeDMA()
+ .text._ZN6clouds5Codec4InitEmNS_13CodecProtocolENS_11CodecFormatE
+                0x0800a628       0x58 build/clouds/codec.o
+                0x0800a628                clouds::Codec::Init(unsigned long, clouds::CodecProtocol, clouds::CodecFormat)
+ .text._ZN6clouds5Codec5StartEPFvPNS0_5FrameES2_jE
+                0x0800a680       0x90 build/clouds/codec.o
+                0x0800a680                clouds::Codec::Start(void (*)(clouds::Codec::Frame*, clouds::Codec::Frame*, unsigned int))
+ .text._ZN6clouds5Codec4FillEj
+                0x0800a710       0x38 build/clouds/codec.o
+                0x0800a710                clouds::Codec::Fill(unsigned int)
+ .text.DMA1_Stream3_IRQHandler
+                0x0800a748       0x48 build/clouds/codec.o
+                0x0800a748                DMA1_Stream3_IRQHandler
+ .text._ZN6clouds9DebugPort4InitEv
+                0x0800a790       0x88 build/clouds/debug_port.o
+                0x0800a790                clouds::DebugPort::Init()
+ .text._ZN6clouds9GateInput4InitEv
+                0x0800a818       0x40 build/clouds/gate_input.o
+                0x0800a818                clouds::GateInput::Init()
+ .text._ZN6clouds9GateInput4ReadEv
+                0x0800a858       0x38 build/clouds/gate_input.o
+                0x0800a858                clouds::GateInput::Read()
+ .text._ZN6clouds4Leds4InitEv
+                0x0800a890      0x104 build/clouds/leds.o
+                0x0800a890                clouds::Leds::Init()
+ .text._ZN6clouds4Leds5WriteEv
+                0x0800a994       0xe0 build/clouds/leds.o
+                0x0800a994                clouds::Leds::Write()
+ .text._ZN6clouds4Leds5ClearEv
+                0x0800aa74       0xa4 build/clouds/leds.o
+                0x0800aa74                clouds::Leds::Clear()
+ .text._ZN6clouds8Switches4InitEv
+                0x0800ab18       0x70 build/clouds/switches.o
+                0x0800ab18                clouds::Switches::Init()
+ .text._ZN6clouds8Switches8DebounceEv
+                0x0800ab88       0x60 build/clouds/switches.o
+                0x0800ab88                clouds::Switches::Debounce()
+ .text._ZN6clouds6System4InitEb
+                0x0800abe8       0x10 build/clouds/system.o
+                0x0800abe8                clouds::System::Init(bool)
+ .text._ZN6clouds6System11StartTimersEv
+                0x0800abf8       0x2c build/clouds/system.o
+                0x0800abf8                clouds::System::StartTimers()
+ .text._ZN6clouds10Correlator4InitEPmS1_
+                0x0800ac24       0x18 build/clouds/correlator.o
+                0x0800ac24                clouds::Correlator::Init(unsigned long*, unsigned long*)
+ .text._ZN6clouds10Correlator21EvaluateNextCandidateEv
+                0x0800ac3c      0x1ac build/clouds/correlator.o
+                0x0800ac3c                clouds::Correlator::EvaluateNextCandidate()
+ .text._ZN6clouds10Correlator11StartSearchElll
+                0x0800ade8       0x1c build/clouds/correlator.o
+                0x0800ade8                clouds::Correlator::StartSearch(long, long, long)
+ .text._ZN6clouds17GranularProcessor12ResetFiltersEv
+                0x0800ae04       0xa8 build/clouds/granular_processor.o
+                0x0800ae04                clouds::GranularProcessor::ResetFilters()
+ .text._ZN6clouds17GranularProcessor4InitEPvjS1_j
+                0x0800aeac       0xec build/clouds/granular_processor.o
+                0x0800aeac                clouds::GranularProcessor::Init(void*, unsigned int, void*, unsigned int)
+ .text._ZN6clouds17GranularProcessor21PreparePersistentDataEv
+                0x0800af98       0x74 build/clouds/granular_processor.o
+                0x0800af98                clouds::GranularProcessor::PreparePersistentData()
+ .text._ZN6clouds17GranularProcessor17GetPersistentDataEPNS_15PersistentBlockEPj
+                0x0800b00c       0x60 build/clouds/granular_processor.o
+                0x0800b00c                clouds::GranularProcessor::GetPersistentData(clouds::PersistentBlock*, unsigned int*)
+ .text._ZN6clouds17GranularProcessor7PrepareEv
+                0x0800b06c     0x144c build/clouds/granular_processor.o
+                0x0800b06c                clouds::GranularProcessor::Prepare()
+ .text._ZN6clouds17GranularProcessor18LoadPersistentDataEPKm
+                0x0800c4b8      0x210 build/clouds/granular_processor.o
+                0x0800c4b8                clouds::GranularProcessor::LoadPersistentData(unsigned long const*)
+ .text._ZN6clouds20GranularSamplePlayer4PlayILNS_10ResolutionE3EEEvPKNS_11AudioBufferIXT_EEERKNS_10ParametersEPfj
+                0x0800c6c8     0x31c0 build/clouds/granular_processor.o
+                0x0800c6c8                void clouds::GranularSamplePlayer::Play<(clouds::Resolution)3>(clouds::AudioBuffer<(clouds::Resolution)3> const*, clouds::Parameters const&, float*, unsigned int)
+ .text._ZN6clouds20GranularSamplePlayer4PlayILNS_10ResolutionE0EEEvPKNS_11AudioBufferIXT_EEERKNS_10ParametersEPfj
+                0x0800f888     0x30fc build/clouds/granular_processor.o
+                0x0800f888                void clouds::GranularSamplePlayer::Play<(clouds::Resolution)0>(clouds::AudioBuffer<(clouds::Resolution)0> const*, clouds::Parameters const&, float*, unsigned int)
+ .text._ZN6clouds17GranularProcessor15ProcessGranularEPNS_10FloatFrameES2_j
+                0x08012984     0x2ed4 build/clouds/granular_processor.o
+                0x08012984                clouds::GranularProcessor::ProcessGranular(clouds::FloatFrame*, clouds::FloatFrame*, unsigned int)
+ .text._ZN6clouds17GranularProcessor7ProcessEPNS_10ShortFrameES2_j
+                0x08015858     0x2870 build/clouds/granular_processor.o
+                0x08015858                clouds::GranularProcessor::Process(clouds::ShortFrame*, clouds::ShortFrame*, unsigned int)
+ .text._ZN6clouds19FrameTransformation4InitEPfll
+                0x080180c8      0x11c build/clouds/frame_transformation.o
+                0x080180c8                clouds::FrameTransformation::Init(float*, long, long)
+ .text._ZN6clouds19FrameTransformation18RectangularToPolarEPf
+                0x080181e4      0x124 build/clouds/frame_transformation.o
+                0x080181e4                clouds::FrameTransformation::RectangularToPolar(float*)
+ .text._ZN6clouds19FrameTransformation9SetPhasesEPfff
+                0x08018308       0xd8 build/clouds/frame_transformation.o
+                0x08018308                clouds::FrameTransformation::SetPhases(float*, float, float)
+ .text._ZN6clouds19FrameTransformation18PolarToRectangularEPf
+                0x080183e0      0x2bc build/clouds/frame_transformation.o
+                0x080183e0                clouds::FrameTransformation::PolarToRectangular(float*)
+ .text._ZN6clouds19FrameTransformation9AddGlitchEPf
+                0x0801869c      0x81c build/clouds/frame_transformation.o
+                0x0801869c                clouds::FrameTransformation::AddGlitch(float*)
+ .text._ZN6clouds19FrameTransformation18QuantizeMagnitudesEPff
+                0x08018eb8      0x5a4 build/clouds/frame_transformation.o
+                0x08018eb8                clouds::FrameTransformation::QuantizeMagnitudes(float*, float)
+ .text._ZN6clouds19FrameTransformation14WarpMagnitudesEPfS1_f
+                0x0801945c      0x308 build/clouds/frame_transformation.o
+                0x0801945c                clouds::FrameTransformation::WarpMagnitudes(float*, float*, float)
+ .text._ZN6clouds19FrameTransformation15ShiftMagnitudesEPfS1_f
+                0x08019764      0x3a8 build/clouds/frame_transformation.o
+                0x08019764                clouds::FrameTransformation::ShiftMagnitudes(float*, float*, float)
+ .text._ZN6clouds19FrameTransformation15StoreMagnitudesEPfff
+                0x08019b0c      0x4b0 build/clouds/frame_transformation.o
+                0x08019b0c                clouds::FrameTransformation::StoreMagnitudes(float*, float, float)
+ .text._ZN6clouds19FrameTransformation16ReplayMagnitudesEPff
+                0x08019fbc      0x1d8 build/clouds/frame_transformation.o
+                0x08019fbc                clouds::FrameTransformation::ReplayMagnitudes(float*, float)
+ .text._ZN6clouds19FrameTransformation7ProcessERKNS_10ParametersEPfS4_
+                0x0801a194      0x154 build/clouds/frame_transformation.o
+                0x0801a194                clouds::FrameTransformation::Process(clouds::Parameters const&, float*, float*)
+ .text._ZN6clouds12PhaseVocoder4InitEPPvPjPKfjllf
+                0x0801a2e8      0x230 build/clouds/phase_vocoder.o
+                0x0801a2e8                clouds::PhaseVocoder::Init(void**, unsigned int*, float const*, unsigned int, long, long, float)
+ .text._ZN6clouds12PhaseVocoder7ProcessERKNS_10ParametersEPKNS_10FloatFrameEPS4_j
+                0x0801a518       0x50 build/clouds/phase_vocoder.o
+                0x0801a518                clouds::PhaseVocoder::Process(clouds::Parameters const&, clouds::FloatFrame const*, clouds::FloatFrame*, unsigned int)
+ .text._ZN6clouds12PhaseVocoder6BufferEv
+                0x0801a568       0x28 build/clouds/phase_vocoder.o
+                0x0801a568                clouds::PhaseVocoder::Buffer()
+ .text._ZN6clouds4STFT5ResetEv
+                0x0801a590      0x13c build/clouds/stft.o
+                0x0801a590                clouds::STFT::Reset()
+ .text._ZN6clouds4STFT4InitEPN6stmlib6ShyFFTIfLj4096ENS1_14RotationPhasorEEEjjPfS6_PKfPsPNS_19FrameTransformationE
+                0x0801a6cc      0x114 build/clouds/stft.o
+                0x0801a6cc                clouds::STFT::Init(stmlib::ShyFFT<float, 4096u, stmlib::RotationPhasor>*, unsigned int, unsigned int, float*, float*, float const*, short*, clouds::FrameTransformation*)
+ .text._ZN6clouds4STFT7ProcessERKNS_10ParametersEPKfPfjj
+                0x0801a7e0      0x284 build/clouds/stft.o
+                0x0801a7e0                clouds::STFT::Process(clouds::Parameters const&, float const*, float*, unsigned int, unsigned int)
+ .text._ZN6clouds4STFT6BufferEv
+                0x0801aa64     0x16f4 build/clouds/stft.o
+                0x0801aa64                clouds::STFT::Buffer()
+ .text.SystemInit
+                0x0801c158      0x100 build/clouds/system_stm32f4xx.o
+                0x0801c158                SystemInit
+ .text.NVIC_SetVectorTable
+                0x0801c258       0x14 build/clouds/misc.o
+                0x0801c258                NVIC_SetVectorTable
+ .text.ADC_Init
+                0x0801c26c       0x5c build/clouds/stm32f4xx_adc.o
+                0x0801c26c                ADC_Init
+ .text.ADC_CommonInit
+                0x0801c2c8       0x30 build/clouds/stm32f4xx_adc.o
+                0x0801c2c8                ADC_CommonInit
+ .text.ADC_Cmd  0x0801c2f8       0x14 build/clouds/stm32f4xx_adc.o
+                0x0801c2f8                ADC_Cmd
+ .text.ADC_RegularChannelConfig
+                0x0801c30c       0xa8 build/clouds/stm32f4xx_adc.o
+                0x0801c30c                ADC_RegularChannelConfig
+ .text.ADC_SoftwareStartConv
+                0x0801c3b4        0xc build/clouds/stm32f4xx_adc.o
+                0x0801c3b4                ADC_SoftwareStartConv
+ .text.ADC_DMACmd
+                0x0801c3c0       0x14 build/clouds/stm32f4xx_adc.o
+                0x0801c3c0                ADC_DMACmd
+ .text.ADC_DMARequestAfterLastTransferCmd
+                0x0801c3d4       0x14 build/clouds/stm32f4xx_adc.o
+                0x0801c3d4                ADC_DMARequestAfterLastTransferCmd
+ .text.DMA_DeInit
+                0x0801c3e8      0x130 build/clouds/stm32f4xx_dma.o
+                0x0801c3e8                DMA_DeInit
+ .text.DMA_Init
+                0x0801c518       0x78 build/clouds/stm32f4xx_dma.o
+                0x0801c518                DMA_Init
+ .text.DMA_Cmd  0x0801c590       0x14 build/clouds/stm32f4xx_dma.o
+                0x0801c590                DMA_Cmd
+ .text.DMA_ITConfig
+                0x0801c5a4       0x44 build/clouds/stm32f4xx_dma.o
+                0x0801c5a4                DMA_ITConfig
+ .text.FLASH_Unlock
+                0x0801c5e8       0x20 build/clouds/stm32f4xx_flash.o
+                0x0801c5e8                FLASH_Unlock
+ .text.FLASH_ClearFlag
+                0x0801c608        0xc build/clouds/stm32f4xx_flash.o
+                0x0801c608                FLASH_ClearFlag
+ .text.FLASH_GetStatus
+                0x0801c614       0x34 build/clouds/stm32f4xx_flash.o
+                0x0801c614                FLASH_GetStatus
+ .text.FLASH_WaitForLastOperation
+                0x0801c648       0x28 build/clouds/stm32f4xx_flash.o
+                0x0801c648                FLASH_WaitForLastOperation
+ .text.FLASH_EraseSector
+                0x0801c670       0x78 build/clouds/stm32f4xx_flash.o
+                0x0801c670                FLASH_EraseSector
+ .text.FLASH_ProgramWord
+                0x0801c6e8       0x40 build/clouds/stm32f4xx_flash.o
+                0x0801c6e8                FLASH_ProgramWord
+ .text.FLASH_ProgramHalfWord
+                0x0801c728       0x40 build/clouds/stm32f4xx_flash.o
+                0x0801c728                FLASH_ProgramHalfWord
+ .text.GPIO_Init
+                0x0801c768      0x298 build/clouds/stm32f4xx_gpio.o
+                0x0801c768                GPIO_Init
+ .text.GPIO_ReadInputDataBit
+                0x0801ca00        0xc build/clouds/stm32f4xx_gpio.o
+                0x0801ca00                GPIO_ReadInputDataBit
+ .text.GPIO_WriteBit
+                0x0801ca0c        0xc build/clouds/stm32f4xx_gpio.o
+                0x0801ca0c                GPIO_WriteBit
+ .text.GPIO_PinAFConfig
+                0x0801ca18       0x30 build/clouds/stm32f4xx_gpio.o
+                0x0801ca18                GPIO_PinAFConfig
+ .text.I2C_DeInit
+                0x0801ca48       0x6c build/clouds/stm32f4xx_i2c.o
+                0x0801ca48                I2C_DeInit
+ .text.I2C_Init
+                0x0801cab4       0xf4 build/clouds/stm32f4xx_i2c.o
+                0x0801cab4                I2C_Init
+ .text.I2C_Cmd  0x0801cba8       0x20 build/clouds/stm32f4xx_i2c.o
+                0x0801cba8                I2C_Cmd
+ .text.I2C_GenerateSTART
+                0x0801cbc8       0x20 build/clouds/stm32f4xx_i2c.o
+                0x0801cbc8                I2C_GenerateSTART
+ .text.I2C_GenerateSTOP
+                0x0801cbe8       0x20 build/clouds/stm32f4xx_i2c.o
+                0x0801cbe8                I2C_GenerateSTOP
+ .text.I2C_Send7bitAddress
+                0x0801cc08       0x14 build/clouds/stm32f4xx_i2c.o
+                0x0801cc08                I2C_Send7bitAddress
+ .text.I2C_SendData
+                0x0801cc1c        0x4 build/clouds/stm32f4xx_i2c.o
+                0x0801cc1c                I2C_SendData
+ .text.I2C_CheckEvent
+                0x0801cc20       0x1c build/clouds/stm32f4xx_i2c.o
+                0x0801cc20                I2C_CheckEvent
+ .text.I2C_GetFlagStatus
+                0x0801cc3c       0x3c build/clouds/stm32f4xx_i2c.o
+                0x0801cc3c                I2C_GetFlagStatus
+ .text.RCC_PLLI2SConfig
+                0x0801cc78       0x14 build/clouds/stm32f4xx_rcc.o
+                0x0801cc78                RCC_PLLI2SConfig
+ .text.RCC_PLLI2SCmd
+                0x0801cc8c        0xc build/clouds/stm32f4xx_rcc.o
+                0x0801cc8c                RCC_PLLI2SCmd
+ .text.RCC_GetClocksFreq
+                0x0801cc98       0x94 build/clouds/stm32f4xx_rcc.o
+                0x0801cc98                RCC_GetClocksFreq
+ .text.RCC_I2SCLKConfig
+                0x0801cd2c        0xc build/clouds/stm32f4xx_rcc.o
+                0x0801cd2c                RCC_I2SCLKConfig
+ .text.RCC_AHB1PeriphClockCmd
+                0x0801cd38       0x1c build/clouds/stm32f4xx_rcc.o
+                0x0801cd38                RCC_AHB1PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x0801cd54       0x1c build/clouds/stm32f4xx_rcc.o
+                0x0801cd54                RCC_APB1PeriphClockCmd
+ .text.RCC_APB2PeriphClockCmd
+                0x0801cd70       0x1c build/clouds/stm32f4xx_rcc.o
+                0x0801cd70                RCC_APB2PeriphClockCmd
+ .text.RCC_APB1PeriphResetCmd
+                0x0801cd8c       0x1c build/clouds/stm32f4xx_rcc.o
+                0x0801cd8c                RCC_APB1PeriphResetCmd
+ .text.RCC_APB2PeriphResetCmd
+                0x0801cda8       0x1c build/clouds/stm32f4xx_rcc.o
+                0x0801cda8                RCC_APB2PeriphResetCmd
+ .text.RCC_GetFlagStatus
+                0x0801cdc4       0x34 build/clouds/stm32f4xx_rcc.o
+                0x0801cdc4                RCC_GetFlagStatus
+ .text.SPI_I2S_DeInit
+                0x0801cdf8       0x6c build/clouds/stm32f4xx_spi.o
+                0x0801cdf8                SPI_I2S_DeInit
+ .text.I2S_Init
+                0x0801ce64       0xf0 build/clouds/stm32f4xx_spi.o
+                0x0801ce64                I2S_Init
+ .text.I2S_Cmd  0x0801cf54       0x20 build/clouds/stm32f4xx_spi.o
+                0x0801cf54                I2S_Cmd
+ .text.I2S_FullDuplexConfig
+                0x0801cf74       0x54 build/clouds/stm32f4xx_spi.o
+                0x0801cf74                I2S_FullDuplexConfig
+ .text.SPI_I2S_DMACmd
+                0x0801cfc8       0x18 build/clouds/stm32f4xx_spi.o
+                0x0801cfc8                SPI_I2S_DMACmd
+ .text.USART_Init
+                0x0801cfe0       0xd8 build/clouds/stm32f4xx_usart.o
+                0x0801cfe0                USART_Init
+ .text.USART_Cmd
+                0x0801d0b8       0x20 build/clouds/stm32f4xx_usart.o
+                0x0801d0b8                USART_Cmd
+ .text.Reset_Handler
+                0x0801d0d8       0x4c build/clouds/startup_stm32f4xx.o
+                0x0801d0d8                Reset_Handler
+ .text.Default_Handler
+                0x0801d124        0x4 build/clouds/startup_stm32f4xx.o
+                0x0801d124                RTC_Alarm_IRQHandler
+                0x0801d124                HASH_RNG_IRQHandler
+                0x0801d124                EXTI2_IRQHandler
+                0x0801d124                TIM8_CC_IRQHandler
+                0x0801d124                TIM1_CC_IRQHandler
+                0x0801d124                DMA2_Stream5_IRQHandler
+                0x0801d124                DMA1_Stream5_IRQHandler
+                0x0801d124                PVD_IRQHandler
+                0x0801d124                SDIO_IRQHandler
+                0x0801d124                TAMP_STAMP_IRQHandler
+                0x0801d124                CAN2_RX1_IRQHandler
+                0x0801d124                EXTI3_IRQHandler
+                0x0801d124                TIM8_TRG_COM_TIM14_IRQHandler
+                0x0801d124                TIM1_UP_TIM10_IRQHandler
+                0x0801d124                TIM8_UP_TIM13_IRQHandler
+                0x0801d124                I2C3_ER_IRQHandler
+                0x0801d124                EXTI0_IRQHandler
+                0x0801d124                I2C2_EV_IRQHandler
+                0x0801d124                DMA1_Stream2_IRQHandler
+                0x0801d124                CAN1_RX0_IRQHandler
+                0x0801d124                FPU_IRQHandler
+                0x0801d124                OTG_HS_WKUP_IRQHandler
+                0x0801d124                CAN2_SCE_IRQHandler
+                0x0801d124                DMA2_Stream2_IRQHandler
+                0x0801d124                SPI1_IRQHandler
+                0x0801d124                TIM6_DAC_IRQHandler
+                0x0801d124                TIM1_BRK_TIM9_IRQHandler
+                0x0801d124                DCMI_IRQHandler
+                0x0801d124                CAN2_RX0_IRQHandler
+                0x0801d124                DMA2_Stream3_IRQHandler
+                0x0801d124                USART6_IRQHandler
+                0x0801d124                USART3_IRQHandler
+                0x0801d124                CRYP_IRQHandler
+                0x0801d124                CAN1_RX1_IRQHandler
+                0x0801d124                UART5_IRQHandler
+                0x0801d124                DMA2_Stream0_IRQHandler
+                0x0801d124                TIM4_IRQHandler
+                0x0801d124                I2C1_EV_IRQHandler
+                0x0801d124                DMA1_Stream6_IRQHandler
+                0x0801d124                DMA1_Stream1_IRQHandler
+                0x0801d124                UART4_IRQHandler
+                0x0801d124                TIM3_IRQHandler
+                0x0801d124                RCC_IRQHandler
+                0x0801d124                TIM8_BRK_TIM12_IRQHandler
+                0x0801d124                Default_Handler
+                0x0801d124                EXTI15_10_IRQHandler
+                0x0801d124                ADC_IRQHandler
+                0x0801d124                DMA1_Stream7_IRQHandler
+                0x0801d124                TIM7_IRQHandler
+                0x0801d124                CAN2_TX_IRQHandler
+                0x0801d124                TIM5_IRQHandler
+                0x0801d124                DMA2_Stream7_IRQHandler
+                0x0801d124                I2C3_EV_IRQHandler
+                0x0801d124                EXTI9_5_IRQHandler
+                0x0801d124                RTC_WKUP_IRQHandler
+                0x0801d124                ETH_WKUP_IRQHandler
+                0x0801d124                SPI2_IRQHandler
+                0x0801d124                OTG_HS_EP1_IN_IRQHandler
+                0x0801d124                DMA1_Stream0_IRQHandler
+                0x0801d124                CAN1_TX_IRQHandler
+                0x0801d124                EXTI4_IRQHandler
+                0x0801d124                FSMC_IRQHandler
+                0x0801d124                ETH_IRQHandler
+                0x0801d124                OTG_HS_EP1_OUT_IRQHandler
+                0x0801d124                WWDG_IRQHandler
+                0x0801d124                TIM2_IRQHandler
+                0x0801d124                OTG_FS_WKUP_IRQHandler
+                0x0801d124                TIM1_TRG_COM_TIM11_IRQHandler
+                0x0801d124                OTG_HS_IRQHandler
+                0x0801d124                EXTI1_IRQHandler
+                0x0801d124                USART2_IRQHandler
+                0x0801d124                I2C2_ER_IRQHandler
+                0x0801d124                DMA2_Stream1_IRQHandler
+                0x0801d124                CAN1_SCE_IRQHandler
+                0x0801d124                FLASH_IRQHandler
+                0x0801d124                DMA2_Stream4_IRQHandler
+                0x0801d124                USART1_IRQHandler
+                0x0801d124                OTG_FS_IRQHandler
+                0x0801d124                SPI3_IRQHandler
+                0x0801d124                DMA1_Stream4_IRQHandler
+                0x0801d124                I2C1_ER_IRQHandler
+                0x0801d124                DMA2_Stream6_IRQHandler
+ .text.memmove  0x0801d128       0xc0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+                0x0801d128                memmove
+ *(.rodata)
+ .rodata        0x0801d1e8        0x4 build/clouds/switches.o
+ *(.rodata*)
+ .rodata._ZN6clouds20lut_sine_window_4096E
+                0x0801d1ec     0x4000 build/clouds/resources.o
+                0x0801d1ec                clouds::lut_sine_window_4096
+ .rodata._ZN6clouds7lut_sinE
+                0x080211ec     0x1404 build/clouds/resources.o
+                0x080211ec                clouds::lut_sin
+ .rodata._ZN6clouds19lut_quantized_pitchE
+                0x080225f0     0x1004 build/clouds/resources.o
+                0x080225f0                clouds::lut_quantized_pitch
+ .rodata._ZN6clouds6lut_dbE
+                0x080235f4      0x204 build/clouds/resources.o
+                0x080235f4                clouds::lut_db
+ .rodata._ZN6clouds18src_filter_1x_2_45E
+                0x080237f8       0xb4 build/clouds/resources.o
+                0x080237f8                clouds::src_filter_1x_2_45
+ .rodata._ZN6clouds10lut_windowE
+                0x080238ac     0x4004 build/clouds/resources.o
+                0x080238ac                clouds::lut_window
+ .rodata._ZN6clouds14lut_grain_sizeE
+                0x080278b0      0x404 build/clouds/resources.o
+                0x080278b0                clouds::lut_grain_size
+ .rodata._ZN6cloudsL16kWarpPolynomialsE
+                0x08027cb4       0x60 build/clouds/frame_transformation.o
+ .rodata._ZN6stmlib6ShyFFTIfLj4096ENS_14RotationPhasorEE16bit_rev_256_lut_E
+                0x08027d14      0x100 build/clouds/stft.o
+                0x08027d14                stmlib::ShyFFT<float, 4096u, stmlib::RotationPhasor>::bit_rev_256_lut_
+ .rodata._ZN6stmlib8atan_lutE
+                0x08027e14      0x404 build/clouds/atan.o
+                0x08027e14                stmlib::atan_lut
+ .rodata._ZN6stmlib20lut_pitch_ratio_highE
+                0x08028218      0x404 build/clouds/units.o
+                0x08028218                stmlib::lut_pitch_ratio_high
+ .rodata._ZN6stmlib19lut_pitch_ratio_lowE
+                0x0802861c      0x404 build/clouds/units.o
+                0x0802861c                stmlib::lut_pitch_ratio_low
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.init)
+ .init          0x08028a20        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+                0x08028a20                _init
+ .init          0x08028a24        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+ *(.fini)
+ .fini          0x08028a2c        0x4 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+                0x08028a2c                _fini
+ .fini          0x08028a30        0x8 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+                0x08028a40                . = ALIGN (0x10)
+ *fill*         0x08028a38        0x8 
+                0x08028a40                _etext = .
+                0x08028a40                _sidata = _etext
+
+.vfp11_veneer   0x08028a40        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08028a40        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x08028a40        0x0
+ .iplt          0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+
+.rel.dyn        0x08028a40        0x0
+ .rel.iplt      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+
+.data           0x20000000      0x270 load address 0x08028a40
+                0x20000000                . = ALIGN (0x10)
+                0x20000000                _sdata = .
+ *(.ramtext*)
+                0x20000000                . = ALIGN (0x10)
+ *(.data*)
+ .data._ZN6clouds8CvScaler16transformations_E
+                0x20000000       0x50 build/clouds/cv_scaler.o
+                0x20000000                clouds::CvScaler::transformations_
+ .data._ZN6clouds8lut_ulawE
+                0x20000050      0x200 build/clouds/mu_law.o
+                0x20000050                clouds::lut_ulaw
+ .data._ZN6stmlib6Random10rng_state_E
+                0x20000250        0x4 build/clouds/random.o
+                0x20000250                stmlib::Random::rng_state_
+ .data.APBAHBPrescTable
+                0x20000254       0x10 build/clouds/stm32f4xx_rcc.o
+ *(.data.*)
+                0x20000270                . = ALIGN (0x10)
+ *fill*         0x20000264        0xc 
+                0x20000270                _edata = .
+
+.igot.plt       0x20000270        0x0 load address 0x08028cb0
+ .igot.plt      0x00000000        0x0 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtbegin.o
+
+.bss            0x20000270    0x1f530 load address 0x08028cb0
+                0x20000270                . = ALIGN (0x10)
+                0x20000270                _sbss = .
+ *(.bss)
+ *(.bss*)
+ .bss.cv_scaler
+                0x20000270       0x80 build/clouds/clouds.o
+                0x20000270                cv_scaler
+ .bss.ui        0x200002f0       0xcc build/clouds/clouds.o
+                0x200002f0                ui
+ .bss.meter     0x200003bc       0x10 build/clouds/clouds.o
+                0x200003bc                meter
+ .bss.debug_port
+                0x200003cc        0x4 build/clouds/clouds.o
+                0x200003cc                debug_port
+ .bss.settings  0x200003d0       0x44 build/clouds/clouds.o
+                0x200003d0                settings
+ .bss.block_mem
+                0x20000414    0x1d000 build/clouds/clouds.o
+                0x20000414                block_mem
+ .bss.codec     0x2001d414      0x294 build/clouds/clouds.o
+                0x2001d414                codec
+ .bss.processor
+                0x2001d6a8     0x20e8 build/clouds/clouds.o
+                0x2001d6a8                processor
+ .bss._ZN6clouds5Codec9instance_E
+                0x2001f790        0x4 build/clouds/codec.o
+                0x2001f790                clouds::Codec::instance_
+ .bss._ZN6stmlib12system_clockE
+                0x2001f794        0x4 build/clouds/system_clock.o
+                0x2001f794                stmlib::system_clock
+ *(COMMON)
+                0x2001f7a0                . = ALIGN (0x10)
+ *fill*         0x2001f798        0x8 
+                0x2001f7a0                _ebss = .
+                0x2001f7a0                PROVIDE (end, _ebss)
+                0x2001f7a0                PROVIDE (_end, _ebss)
+
+._user_heap_stack
+                0x2001f7a0      0x400 load address 0x080481e0
+                0x2001f7a0                . = ALIGN (0x10)
+                0x2001f7a0                PROVIDE (end, .)
+                0x2001f7a0                PROVIDE (_end, .)
+                0x2001f7a0                . = (. + _Min_Heap_Size)
+                0x2001fba0                . = (. + _Min_Stack_Size)
+ *fill*         0x2001f7a0      0x400 
+                0x2001fba0                . = ALIGN (0x10)
+
+.ccmdata        0x10000000     0xff80
+                0x10000000                . = ALIGN (0x10)
+ *(.ccmdata)
+ .ccmdata       0x10000000     0xff80 build/clouds/clouds.o
+                0x10000000                block_ccm
+                0x1000ff80                . = ALIGN (0x10)
+
+DISCARD
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+OUTPUT(build/clouds/clouds.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x22 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crti.o
+ .ARM.attributes
+                0x00000022       0x39 build/clouds/clouds.o
+ .ARM.attributes
+                0x0000005b       0x39 build/clouds/cv_scaler.o
+ .ARM.attributes
+                0x00000094       0x39 build/clouds/resources.o
+ .ARM.attributes
+                0x000000cd       0x39 build/clouds/settings.o
+ .ARM.attributes
+                0x00000106       0x39 build/clouds/ui.o
+ .ARM.attributes
+                0x0000013f       0x39 build/clouds/adc.o
+ .ARM.attributes
+                0x00000178       0x39 build/clouds/codec.o
+ .ARM.attributes
+                0x000001b1       0x39 build/clouds/debug_port.o
+ .ARM.attributes
+                0x000001ea       0x39 build/clouds/gate_input.o
+ .ARM.attributes
+                0x00000223       0x39 build/clouds/leds.o
+ .ARM.attributes
+                0x0000025c       0x39 build/clouds/switches.o
+ .ARM.attributes
+                0x00000295       0x39 build/clouds/system.o
+ .ARM.attributes
+                0x000002ce       0x39 build/clouds/correlator.o
+ .ARM.attributes
+                0x00000307       0x39 build/clouds/granular_processor.o
+ .ARM.attributes
+                0x00000340       0x39 build/clouds/mu_law.o
+ .ARM.attributes
+                0x00000379       0x39 build/clouds/frame_transformation.o
+ .ARM.attributes
+                0x000003b2       0x39 build/clouds/phase_vocoder.o
+ .ARM.attributes
+                0x000003eb       0x39 build/clouds/stft.o
+ .ARM.attributes
+                0x00000424       0x39 build/clouds/atan.o
+ .ARM.attributes
+                0x0000045d       0x39 build/clouds/units.o
+ .ARM.attributes
+                0x00000496       0x39 build/clouds/random.o
+ .ARM.attributes
+                0x000004cf       0x39 build/clouds/system_clock.o
+ .ARM.attributes
+                0x00000508       0x39 build/clouds/system_stm32f4xx.o
+ .ARM.attributes
+                0x00000541       0x39 build/clouds/misc.o
+ .ARM.attributes
+                0x0000057a       0x39 build/clouds/stm32f4xx_adc.o
+ .ARM.attributes
+                0x000005b3       0x39 build/clouds/stm32f4xx_dma.o
+ .ARM.attributes
+                0x000005ec       0x39 build/clouds/stm32f4xx_flash.o
+ .ARM.attributes
+                0x00000625       0x39 build/clouds/stm32f4xx_gpio.o
+ .ARM.attributes
+                0x0000065e       0x39 build/clouds/stm32f4xx_i2c.o
+ .ARM.attributes
+                0x00000697       0x39 build/clouds/stm32f4xx_rcc.o
+ .ARM.attributes
+                0x000006d0       0x39 build/clouds/stm32f4xx_spi.o
+ .ARM.attributes
+                0x00000709       0x39 build/clouds/stm32f4xx_usart.o
+ .ARM.attributes
+                0x00000742       0x21 build/clouds/startup_stm32f4xx.o
+ .ARM.attributes
+                0x00000763       0x20 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000783       0x34 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x000007b7       0x22 /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/armv7e-m/fpu/crtn.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 build/clouds/clouds.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 build/clouds/cv_scaler.o
+ .comment       0x00000000       0x71 build/clouds/resources.o
+ .comment       0x00000000       0x71 build/clouds/settings.o
+ .comment       0x00000000       0x71 build/clouds/ui.o
+ .comment       0x00000000       0x71 build/clouds/adc.o
+ .comment       0x00000000       0x71 build/clouds/codec.o
+ .comment       0x00000000       0x71 build/clouds/debug_port.o
+ .comment       0x00000000       0x71 build/clouds/gate_input.o
+ .comment       0x00000000       0x71 build/clouds/leds.o
+ .comment       0x00000000       0x71 build/clouds/switches.o
+ .comment       0x00000000       0x71 build/clouds/system.o
+ .comment       0x00000000       0x71 build/clouds/correlator.o
+ .comment       0x00000000       0x71 build/clouds/granular_processor.o
+ .comment       0x00000000       0x71 build/clouds/mu_law.o
+ .comment       0x00000000       0x71 build/clouds/frame_transformation.o
+ .comment       0x00000000       0x71 build/clouds/phase_vocoder.o
+ .comment       0x00000000       0x71 build/clouds/stft.o
+ .comment       0x00000000       0x71 build/clouds/atan.o
+ .comment       0x00000000       0x71 build/clouds/units.o
+ .comment       0x00000000       0x71 build/clouds/random.o
+ .comment       0x00000000       0x71 build/clouds/system_clock.o
+ .comment       0x00000000       0x71 build/clouds/system_stm32f4xx.o
+ .comment       0x00000000       0x71 build/clouds/misc.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_adc.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_dma.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_flash.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_gpio.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_i2c.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_rcc.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_spi.o
+ .comment       0x00000000       0x71 build/clouds/stm32f4xx_usart.o
+
+.debug_info     0x00000000    0x4a7ca
+ .debug_info    0x00000000     0x7997 build/clouds/clouds.o
+ .debug_info    0x00007997     0x1562 build/clouds/cv_scaler.o
+ .debug_info    0x00008ef9     0xb4ed build/clouds/resources.o
+ .debug_info    0x000143e6     0x210b build/clouds/settings.o
+ .debug_info    0x000164f1     0x876a build/clouds/ui.o
+ .debug_info    0x0001ec5b      0xc76 build/clouds/adc.o
+ .debug_info    0x0001f8d1     0x2c90 build/clouds/codec.o
+ .debug_info    0x00022561      0x6ac build/clouds/debug_port.o
+ .debug_info    0x00022c0d      0x9cd build/clouds/gate_input.o
+ .debug_info    0x000235da      0xeb5 build/clouds/leds.o
+ .debug_info    0x0002448f      0xc39 build/clouds/switches.o
+ .debug_info    0x000250c8      0x7de build/clouds/system.o
+ .debug_info    0x000258a6      0x882 build/clouds/correlator.o
+ .debug_info    0x00026128    0x16253 build/clouds/granular_processor.o
+ .debug_info    0x0003c37b       0xaf build/clouds/mu_law.o
+ .debug_info    0x0003c42a     0x2624 build/clouds/frame_transformation.o
+ .debug_info    0x0003ea4e     0x19c0 build/clouds/phase_vocoder.o
+ .debug_info    0x0004040e     0x334b build/clouds/stft.o
+ .debug_info    0x00043759      0x54c build/clouds/atan.o
+ .debug_info    0x00043ca5      0x973 build/clouds/units.o
+ .debug_info    0x00044618      0x16e build/clouds/random.o
+ .debug_info    0x00044786      0x2ce build/clouds/system_clock.o
+ .debug_info    0x00044a54      0x58b build/clouds/system_stm32f4xx.o
+ .debug_info    0x00044fdf      0x528 build/clouds/misc.o
+ .debug_info    0x00045507      0xc7a build/clouds/stm32f4xx_adc.o
+ .debug_info    0x00046181      0x72c build/clouds/stm32f4xx_dma.o
+ .debug_info    0x000468ad      0x7ce build/clouds/stm32f4xx_flash.o
+ .debug_info    0x0004707b      0x7b5 build/clouds/stm32f4xx_gpio.o
+ .debug_info    0x00047830      0xbbf build/clouds/stm32f4xx_i2c.o
+ .debug_info    0x000483ef      0xcfc build/clouds/stm32f4xx_rcc.o
+ .debug_info    0x000490eb      0xbb0 build/clouds/stm32f4xx_spi.o
+ .debug_info    0x00049c9b      0xb2f build/clouds/stm32f4xx_usart.o
+
+.debug_abbrev   0x00000000     0x6a22
+ .debug_abbrev  0x00000000      0x837 build/clouds/clouds.o
+ .debug_abbrev  0x00000837      0x520 build/clouds/cv_scaler.o
+ .debug_abbrev  0x00000d57       0xe4 build/clouds/resources.o
+ .debug_abbrev  0x00000e3b      0x627 build/clouds/settings.o
+ .debug_abbrev  0x00001462      0x82c build/clouds/ui.o
+ .debug_abbrev  0x00001c8e      0x2bc build/clouds/adc.o
+ .debug_abbrev  0x00001f4a      0x593 build/clouds/codec.o
+ .debug_abbrev  0x000024dd      0x225 build/clouds/debug_port.o
+ .debug_abbrev  0x00002702      0x306 build/clouds/gate_input.o
+ .debug_abbrev  0x00002a08      0x475 build/clouds/leds.o
+ .debug_abbrev  0x00002e7d      0x3fc build/clouds/switches.o
+ .debug_abbrev  0x00003279      0x259 build/clouds/system.o
+ .debug_abbrev  0x000034d2      0x253 build/clouds/correlator.o
+ .debug_abbrev  0x00003725      0x9fb build/clouds/granular_processor.o
+ .debug_abbrev  0x00004120       0x6c build/clouds/mu_law.o
+ .debug_abbrev  0x0000418c      0x645 build/clouds/frame_transformation.o
+ .debug_abbrev  0x000047d1      0x53a build/clouds/phase_vocoder.o
+ .debug_abbrev  0x00004d0b      0x663 build/clouds/stft.o
+ .debug_abbrev  0x0000536e       0xbd build/clouds/atan.o
+ .debug_abbrev  0x0000542b       0xbd build/clouds/units.o
+ .debug_abbrev  0x000054e8       0xf5 build/clouds/random.o
+ .debug_abbrev  0x000055dd      0x1fd build/clouds/system_clock.o
+ .debug_abbrev  0x000057da      0x15f build/clouds/system_stm32f4xx.o
+ .debug_abbrev  0x00005939      0x156 build/clouds/misc.o
+ .debug_abbrev  0x00005a8f      0x1dd build/clouds/stm32f4xx_adc.o
+ .debug_abbrev  0x00005c6c      0x175 build/clouds/stm32f4xx_dma.o
+ .debug_abbrev  0x00005de1      0x20d build/clouds/stm32f4xx_flash.o
+ .debug_abbrev  0x00005fee      0x1f8 build/clouds/stm32f4xx_gpio.o
+ .debug_abbrev  0x000061e6      0x1ef build/clouds/stm32f4xx_i2c.o
+ .debug_abbrev  0x000063d5      0x279 build/clouds/stm32f4xx_rcc.o
+ .debug_abbrev  0x0000664e      0x1e7 build/clouds/stm32f4xx_spi.o
+ .debug_abbrev  0x00006835      0x1ed build/clouds/stm32f4xx_usart.o
+
+.debug_loc      0x00000000    0x2b2ec
+ .debug_loc     0x00000000      0x466 build/clouds/clouds.o
+ .debug_loc     0x00000466      0x753 build/clouds/cv_scaler.o
+ .debug_loc     0x00000bb9      0x65a build/clouds/settings.o
+ .debug_loc     0x00001213     0x2545 build/clouds/ui.o
+ .debug_loc     0x00003758       0x7b build/clouds/adc.o
+ .debug_loc     0x000037d3      0x60d build/clouds/codec.o
+ .debug_loc     0x00003de0       0x21 build/clouds/debug_port.o
+ .debug_loc     0x00003e01       0x58 build/clouds/gate_input.o
+ .debug_loc     0x00003e59      0x263 build/clouds/leds.o
+ .debug_loc     0x000040bc       0xc5 build/clouds/switches.o
+ .debug_loc     0x00004181       0x63 build/clouds/system.o
+ .debug_loc     0x000041e4      0xd1a build/clouds/correlator.o
+ .debug_loc     0x00004efe    0x1cb04 build/clouds/granular_processor.o
+ .debug_loc     0x00021a02     0x2426 build/clouds/frame_transformation.o
+ .debug_loc     0x00023e28      0xa79 build/clouds/phase_vocoder.o
+ .debug_loc     0x000248a1     0x1e8e build/clouds/stft.o
+ .debug_loc     0x0002672f      0x153 build/clouds/system_stm32f4xx.o
+ .debug_loc     0x00026882      0x1b5 build/clouds/misc.o
+ .debug_loc     0x00026a37      0xcae build/clouds/stm32f4xx_adc.o
+ .debug_loc     0x000276e5      0x641 build/clouds/stm32f4xx_dma.o
+ .debug_loc     0x00027d26      0x6bd build/clouds/stm32f4xx_flash.o
+ .debug_loc     0x000283e3      0x58f build/clouds/stm32f4xx_gpio.o
+ .debug_loc     0x00028972      0xb16 build/clouds/stm32f4xx_i2c.o
+ .debug_loc     0x00029488      0xcee build/clouds/stm32f4xx_rcc.o
+ .debug_loc     0x0002a176      0x7c2 build/clouds/stm32f4xx_spi.o
+ .debug_loc     0x0002a938      0x9b4 build/clouds/stm32f4xx_usart.o
+
+.debug_aranges  0x00000000      0xd78
+ .debug_aranges
+                0x00000000       0xb8 build/clouds/clouds.o
+ .debug_aranges
+                0x000000b8       0x30 build/clouds/cv_scaler.o
+ .debug_aranges
+                0x000000e8       0x18 build/clouds/resources.o
+ .debug_aranges
+                0x00000100       0x30 build/clouds/settings.o
+ .debug_aranges
+                0x00000130       0x78 build/clouds/ui.o
+ .debug_aranges
+                0x000001a8       0x30 build/clouds/adc.o
+ .debug_aranges
+                0x000001d8       0x70 build/clouds/codec.o
+ .debug_aranges
+                0x00000248       0x20 build/clouds/debug_port.o
+ .debug_aranges
+                0x00000268       0x28 build/clouds/gate_input.o
+ .debug_aranges
+                0x00000290       0x30 build/clouds/leds.o
+ .debug_aranges
+                0x000002c0       0x28 build/clouds/switches.o
+ .debug_aranges
+                0x000002e8       0x28 build/clouds/system.o
+ .debug_aranges
+                0x00000310       0x30 build/clouds/correlator.o
+ .debug_aranges
+                0x00000340       0x68 build/clouds/granular_processor.o
+ .debug_aranges
+                0x000003a8       0x18 build/clouds/mu_law.o
+ .debug_aranges
+                0x000003c0       0x78 build/clouds/frame_transformation.o
+ .debug_aranges
+                0x00000438       0x30 build/clouds/phase_vocoder.o
+ .debug_aranges
+                0x00000468       0x38 build/clouds/stft.o
+ .debug_aranges
+                0x000004a0       0x18 build/clouds/atan.o
+ .debug_aranges
+                0x000004b8       0x18 build/clouds/units.o
+ .debug_aranges
+                0x000004d0       0x18 build/clouds/random.o
+ .debug_aranges
+                0x000004e8       0x28 build/clouds/system_clock.o
+ .debug_aranges
+                0x00000510       0x28 build/clouds/system_stm32f4xx.o
+ .debug_aranges
+                0x00000538       0x40 build/clouds/misc.o
+ .debug_aranges
+                0x00000578      0x148 build/clouds/stm32f4xx_adc.o
+ .debug_aranges
+                0x000006c0       0xb0 build/clouds/stm32f4xx_dma.o
+ .debug_aranges
+                0x00000770      0x108 build/clouds/stm32f4xx_flash.o
+ .debug_aranges
+                0x00000878       0x88 build/clouds/stm32f4xx_gpio.o
+ .debug_aranges
+                0x00000900      0x120 build/clouds/stm32f4xx_i2c.o
+ .debug_aranges
+                0x00000a20      0x178 build/clouds/stm32f4xx_rcc.o
+ .debug_aranges
+                0x00000b98       0xe0 build/clouds/stm32f4xx_spi.o
+ .debug_aranges
+                0x00000c78      0x100 build/clouds/stm32f4xx_usart.o
+
+.debug_ranges   0x00000000     0x9bf0
+ .debug_ranges  0x00000000      0x148 build/clouds/clouds.o
+ .debug_ranges  0x00000148      0x1f0 build/clouds/cv_scaler.o
+ .debug_ranges  0x00000338       0xf0 build/clouds/settings.o
+ .debug_ranges  0x00000428      0x980 build/clouds/ui.o
+ .debug_ranges  0x00000da8       0x38 build/clouds/adc.o
+ .debug_ranges  0x00000de0      0x168 build/clouds/codec.o
+ .debug_ranges  0x00000f48       0x28 build/clouds/debug_port.o
+ .debug_ranges  0x00000f70       0x30 build/clouds/gate_input.o
+ .debug_ranges  0x00000fa0       0xf0 build/clouds/leds.o
+ .debug_ranges  0x00001090       0x70 build/clouds/switches.o
+ .debug_ranges  0x00001100       0x58 build/clouds/system.o
+ .debug_ranges  0x00001158       0x90 build/clouds/correlator.o
+ .debug_ranges  0x000011e8     0x6b18 build/clouds/granular_processor.o
+ .debug_ranges  0x00007d00      0xbe8 build/clouds/frame_transformation.o
+ .debug_ranges  0x000088e8      0x2d0 build/clouds/phase_vocoder.o
+ .debug_ranges  0x00008bb8      0x840 build/clouds/stft.o
+ .debug_ranges  0x000093f8       0x18 build/clouds/system_clock.o
+ .debug_ranges  0x00009410       0x30 build/clouds/system_stm32f4xx.o
+ .debug_ranges  0x00009440       0x30 build/clouds/misc.o
+ .debug_ranges  0x00009470      0x138 build/clouds/stm32f4xx_adc.o
+ .debug_ranges  0x000095a8       0xa0 build/clouds/stm32f4xx_dma.o
+ .debug_ranges  0x00009648       0xf8 build/clouds/stm32f4xx_flash.o
+ .debug_ranges  0x00009740       0x78 build/clouds/stm32f4xx_gpio.o
+ .debug_ranges  0x000097b8      0x110 build/clouds/stm32f4xx_i2c.o
+ .debug_ranges  0x000098c8      0x168 build/clouds/stm32f4xx_rcc.o
+ .debug_ranges  0x00009a30       0xd0 build/clouds/stm32f4xx_spi.o
+ .debug_ranges  0x00009b00       0xf0 build/clouds/stm32f4xx_usart.o
+
+.debug_line     0x00000000     0xeb32
+ .debug_line    0x00000000      0x97f build/clouds/clouds.o
+ .debug_line    0x0000097f      0x71a build/clouds/cv_scaler.o
+ .debug_line    0x00001099       0xb4 build/clouds/resources.o
+ .debug_line    0x0000114d      0x6d4 build/clouds/settings.o
+ .debug_line    0x00001821      0xe2d build/clouds/ui.o
+ .debug_line    0x0000264e      0x21b build/clouds/adc.o
+ .debug_line    0x00002869      0x6fd build/clouds/codec.o
+ .debug_line    0x00002f66      0x1af build/clouds/debug_port.o
+ .debug_line    0x00003115      0x447 build/clouds/gate_input.o
+ .debug_line    0x0000355c      0x4fb build/clouds/leds.o
+ .debug_line    0x00003a57      0x48b build/clouds/switches.o
+ .debug_line    0x00003ee2      0x19b build/clouds/system.o
+ .debug_line    0x0000407d      0x433 build/clouds/correlator.o
+ .debug_line    0x000044b0     0x5735 build/clouds/granular_processor.o
+ .debug_line    0x00009be5       0x63 build/clouds/mu_law.o
+ .debug_line    0x00009c48     0x151f build/clouds/frame_transformation.o
+ .debug_line    0x0000b167      0x573 build/clouds/phase_vocoder.o
+ .debug_line    0x0000b6da      0xc43 build/clouds/stft.o
+ .debug_line    0x0000c31d       0xc1 build/clouds/atan.o
+ .debug_line    0x0000c3de       0xc2 build/clouds/units.o
+ .debug_line    0x0000c4a0       0xba build/clouds/random.o
+ .debug_line    0x0000c55a       0xea build/clouds/system_clock.o
+ .debug_line    0x0000c644      0x148 build/clouds/system_stm32f4xx.o
+ .debug_line    0x0000c78c      0x1b6 build/clouds/misc.o
+ .debug_line    0x0000c942      0x503 build/clouds/stm32f4xx_adc.o
+ .debug_line    0x0000ce45      0x39c build/clouds/stm32f4xx_dma.o
+ .debug_line    0x0000d1e1      0x3f4 build/clouds/stm32f4xx_flash.o
+ .debug_line    0x0000d5d5      0x353 build/clouds/stm32f4xx_gpio.o
+ .debug_line    0x0000d928      0x485 build/clouds/stm32f4xx_i2c.o
+ .debug_line    0x0000ddad      0x4fc build/clouds/stm32f4xx_rcc.o
+ .debug_line    0x0000e2a9      0x422 build/clouds/stm32f4xx_spi.o
+ .debug_line    0x0000e6cb      0x467 build/clouds/stm32f4xx_usart.o
+
+.debug_str      0x00000000    0x1892f
+ .debug_str     0x00000000     0x630c build/clouds/clouds.o
+                               0x67f0 (size before relaxing)
+ .debug_str     0x0000630c      0x303 build/clouds/cv_scaler.o
+                                0xf96 (size before relaxing)
+ .debug_str     0x0000660f      0x1c2 build/clouds/resources.o
+                                0x49c (size before relaxing)
+ .debug_str     0x000067d1      0x394 build/clouds/settings.o
+                               0x12de (size before relaxing)
+ .debug_str     0x00006b65      0x130 build/clouds/ui.o
+                               0x6679 (size before relaxing)
+ .debug_str     0x00006c95      0x411 build/clouds/adc.o
+                                0xa10 (size before relaxing)
+ .debug_str     0x000070a6      0xcd7 build/clouds/codec.o
+                               0x1dff (size before relaxing)
+ .debug_str     0x00007d7d       0xb2 build/clouds/debug_port.o
+                                0x6cc (size before relaxing)
+ .debug_str     0x00007e2f       0x33 build/clouds/gate_input.o
+                                0x833 (size before relaxing)
+ .debug_str     0x00007e62      0x109 build/clouds/leds.o
+                                0x8e3 (size before relaxing)
+ .debug_str     0x00007f6b       0x20 build/clouds/switches.o
+                                0x8a6 (size before relaxing)
+ .debug_str     0x00007f8b       0xce build/clouds/system.o
+                                0x90c (size before relaxing)
+ .debug_str     0x00008059       0x5f build/clouds/correlator.o
+                                0x68a (size before relaxing)
+ .debug_str     0x000080b8     0xe30a build/clouds/granular_processor.o
+                              0x1296d (size before relaxing)
+ .debug_str     0x000163c2       0x15 build/clouds/mu_law.o
+                                0x22d (size before relaxing)
+ .debug_str     0x000163d7      0x21e build/clouds/frame_transformation.o
+                               0x1010 (size before relaxing)
+ .debug_str     0x000165f5      0x14f build/clouds/phase_vocoder.o
+                               0x127a (size before relaxing)
+ .debug_str     0x00016744      0x44a build/clouds/stft.o
+                               0x163b (size before relaxing)
+ .debug_str     0x00016b8e       0x56 build/clouds/atan.o
+                                0x297 (size before relaxing)
+ .debug_str     0x00016be4       0x14 build/clouds/units.o
+                                0x2e6 (size before relaxing)
+ .debug_str     0x00016bf8       0x36 build/clouds/random.o
+                                0x32f (size before relaxing)
+ .debug_str     0x00016c2e       0x63 build/clouds/system_clock.o
+                                0x3e3 (size before relaxing)
+ .debug_str     0x00016c91      0x2b2 build/clouds/system_stm32f4xx.o
+                                0x43e (size before relaxing)
+ .debug_str     0x00016f43      0x16f build/clouds/misc.o
+                                0x477 (size before relaxing)
+ .debug_str     0x000170b2      0x49b build/clouds/stm32f4xx_adc.o
+                                0x8b9 (size before relaxing)
+ .debug_str     0x0001754d      0x213 build/clouds/stm32f4xx_dma.o
+                                0x5ea (size before relaxing)
+ .debug_str     0x00017760      0x2c2 build/clouds/stm32f4xx_flash.o
+                                0x625 (size before relaxing)
+ .debug_str     0x00017a22      0x157 build/clouds/stm32f4xx_gpio.o
+                                0x568 (size before relaxing)
+ .debug_str     0x00017b79      0x337 build/clouds/stm32f4xx_i2c.o
+                                0x72c (size before relaxing)
+ .debug_str     0x00017eb0      0x41c build/clouds/stm32f4xx_rcc.o
+                                0x8ee (size before relaxing)
+ .debug_str     0x000182cc      0x2d1 build/clouds/stm32f4xx_spi.o
+                                0x756 (size before relaxing)
+ .debug_str     0x0001859d      0x392 build/clouds/stm32f4xx_usart.o
+                                0x76d (size before relaxing)
+
+.debug_frame    0x00000000     0x1d38
+ .debug_frame   0x00000000      0x190 build/clouds/clouds.o
+ .debug_frame   0x00000190       0x60 build/clouds/cv_scaler.o
+ .debug_frame   0x000001f0       0x84 build/clouds/settings.o
+ .debug_frame   0x00000274      0x12c build/clouds/ui.o
+ .debug_frame   0x000003a0       0x58 build/clouds/adc.o
+ .debug_frame   0x000003f8      0x15c build/clouds/codec.o
+ .debug_frame   0x00000554       0x30 build/clouds/debug_port.o
+ .debug_frame   0x00000584       0x48 build/clouds/gate_input.o
+ .debug_frame   0x000005cc       0x70 build/clouds/leds.o
+ .debug_frame   0x0000063c       0x50 build/clouds/switches.o
+ .debug_frame   0x0000068c       0x38 build/clouds/system.o
+ .debug_frame   0x000006c4       0x68 build/clouds/correlator.o
+ .debug_frame   0x0000072c      0x194 build/clouds/granular_processor.o
+ .debug_frame   0x000008c0      0x194 build/clouds/frame_transformation.o
+ .debug_frame   0x00000a54       0x80 build/clouds/phase_vocoder.o
+ .debug_frame   0x00000ad4       0xa0 build/clouds/stft.o
+ .debug_frame   0x00000b74       0x30 build/clouds/system_clock.o
+ .debug_frame   0x00000ba4       0x34 build/clouds/system_stm32f4xx.o
+ .debug_frame   0x00000bd8       0x6c build/clouds/misc.o
+ .debug_frame   0x00000c44      0x2b4 build/clouds/stm32f4xx_adc.o
+ .debug_frame   0x00000ef8      0x180 build/clouds/stm32f4xx_dma.o
+ .debug_frame   0x00001078      0x264 build/clouds/stm32f4xx_flash.o
+ .debug_frame   0x000012dc      0x118 build/clouds/stm32f4xx_gpio.o
+ .debug_frame   0x000013f4      0x248 build/clouds/stm32f4xx_i2c.o
+ .debug_frame   0x0000163c      0x2e4 build/clouds/stm32f4xx_rcc.o
+ .debug_frame   0x00001920      0x1dc build/clouds/stm32f4xx_spi.o
+ .debug_frame   0x00001afc      0x210 build/clouds/stm32f4xx_usart.o
+ .debug_frame   0x00001d0c       0x2c /home/luix/apps/gcc/gcc-arm-none-eabi-4_8-2013q4/bin/../lib/gcc/arm-none-eabi/4.8.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a(lib_a-memmove.o)
