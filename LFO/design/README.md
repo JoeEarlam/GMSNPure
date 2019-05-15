@@ -1,0 +1,1 @@
+Hi there, this file is used to initialize a repository. You can delete it if you want to.
